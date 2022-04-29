@@ -1,6 +1,22 @@
 # australian-election-ballot
 
-## CLI Commands
+The AEC (Australian Electoral Commission) has this page to view all the candidates for an upcoming election:
+https://www.aec.gov.au/election/candidates.htm
+
+The problem with that is that it's a flat wall of text which is kind of hard to navigate.
+
+Wouldn't it be good if you could see a preview of what the actual ballot paper looked like for your area,
+so that you can look at it and calmly decide where to put your vote before the polling booth?
+
+That's what this tiny website does.
+
+## References
+
+* Downloads (CSVs): <https://www.aec.gov.au/election/downloads.htm>
+* Example ballots: <https://www.aec.gov.au/Voting/How_to_vote/practice/practice-house-of-reps.htm>
+
+## Development
+
 *   `npm install`: Installs dependencies
 
 *   `npm run dev`: Run a development, HMR server
