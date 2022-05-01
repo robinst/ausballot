@@ -12,24 +12,23 @@ That's what this tiny website does.
 
 ## References
 
-* Downloads (CSVs): <https://www.aec.gov.au/election/downloads.htm>
-* Example ballots: <https://www.aec.gov.au/Voting/How_to_vote/practice/practice-house-of-reps.htm>
+- Downloads (CSVs): <https://www.aec.gov.au/election/downloads.htm>
+- Example ballots: <https://www.aec.gov.au/Voting/How_to_vote/practice/practice-house-of-reps.htm>
 
 ## Development
 
-*   `npm install`: Installs dependencies
+- `npm install`: Installs dependencies
 
-*   `npm run dev`: Run a development, HMR server
+- `npm run dev`: Run a development, HMR server
 
-*   `npm run serve`: Run a production-like server
+- `npm run serve`: Run a production-like server
 
-*   `npm run build`: Production-ready build
+- `npm run build`: Production-ready build
 
-*   `npm run lint`: Pass TypeScript files using ESLint
+- `npm run lint`: Pass TypeScript files using ESLint
 
-*   `npm run test`: Run Jest and Enzyme with
-    [`enzyme-adapter-preact-pure`](https://github.com/preactjs/enzyme-adapter-preact-pure) for
-    your tests
-
+- `npm run test`: Run Jest and Enzyme with
+  [`enzyme-adapter-preact-pure`](https://github.com/preactjs/enzyme-adapter-preact-pure) for
+  your tests
 
 For detailed explanation on how things work, checkout the [CLI Readme](https://github.com/developit/preact-cli/blob/master/README.md).
