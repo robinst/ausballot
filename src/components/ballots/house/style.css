@@ -1,0 +1,13 @@
+.ballot {
+  background-color: #eff7e8;
+}
+
+.candidateName {
+  font-size: 1.1em;
+  font-weight: 500;
+}
+
+.candidateParty {
+  font-size: 0.8em;
+  text-transform: uppercase;
+}
