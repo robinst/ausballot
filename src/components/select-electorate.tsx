@@ -4,7 +4,7 @@ import Select, { components, ActionMeta, SingleValueProps } from "react-select";
 import houseCandidates from "../data/house-candidates.json";
 
 interface Props {
-  defaultValue?: string;
+  selectedValue?: string;
 }
 
 type Option = {
@@ -55,16 +55,16 @@ const onChange = (option: Option | null, actionMeta: ActionMeta<Option>) => {
 const SelectElectorate: FunctionalComponent<Props> = (props: Props) => {
   const options = groupedOptions();
 
-  const { defaultValue } = props;
-  const defaultOption = options
+  const { selectedValue } = props;
+  const selectedOption = options
     .flatMap((o) => o.options)
-    .find((o) => o.value === defaultValue);
+    .find((o) => o.value === selectedValue);
 
   return (
     <span>
       Electorate:
       <Select<Option, false>
-        defaultValue={defaultOption}
+        value={selectedOption}
         options={options}
         components={{ SingleValue }}
         isSearchable

@@ -12,7 +12,7 @@ const Electorate: FunctionalComponent<Props> = (props: Props) => {
 
   return (
     <div class={style.electorate}>
-      <SelectElectorate defaultValue={`${state}/${division}`} />
+      <SelectElectorate selectedValue={`${state}/${division}`} />
       <h1>
         {division} ({state})
       </h1>
