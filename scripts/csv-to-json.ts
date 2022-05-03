@@ -1,24 +1,13 @@
-import { writeFileSync, readFileSync, createReadStream } from "fs";
-import * as readline from "readline";
+import { createReadStream } from "fs";
+import { parse, Parser } from "csv-parse";
 
-async function* readCsv(path) {
-  const file = createReadStream(path);
-  const rl = readline.createInterface(file);
-  const separator = ",";
-
-  let columns;
-  for await (let line of rl) {
-    line = line.trim();
-    if (columns === undefined) {
-      // First line is headers
-      columns = line.split(separator);
-    } else {
-      const values = line.split(separator);
-      const entries = columns.map((k, i) => [k, values[i]]);
-
-      yield Object.fromEntries(entries);
-    }
-  }
+function readCsv(path): Parser {
+  const parser = parse({
+    delimiter: ",",
+    columns: true,
+    bom: true,
+  });
+  return createReadStream(path).pipe(parser);
 }
 
 async function getSenate() {
@@ -100,24 +89,4 @@ async function getHouse() {
 (async () => {
   console.log(JSON.stringify(await getHouse()));
   console.log(JSON.stringify(await getSenate()));
-
-  // const file = createReadStream();
-  // const rl = readline.createInterface(file);
-  //
-  // const columns = [];
-  // for await (const line of rl) {
-  //     if (columns.length == 0) {
-  //         columns = line.split(',');
-  //     }
-  //
-  //     console.log(line);
-  // }
 })();
-
-// await foo();
-//
-//
-// let house = readFileSync("data/house-candidates.csv", {encoding: 'utf-8'});
-// house
-//
-// console.log("Hello?");
