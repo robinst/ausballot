@@ -1,4 +1,4 @@
-import { createReadStream } from "fs";
+import { createReadStream, writeFileSync } from "fs";
 import { parse, Parser } from "csv-parse";
 
 function readCsv(path): Parser {
@@ -87,6 +87,15 @@ async function getHouse() {
 }
 
 (async () => {
-  console.log(JSON.stringify(await getHouse()));
-  console.log(JSON.stringify(await getSenate()));
+  const houseCandidates = await getHouse();
+  writeFileSync(
+    "src/data/house-candidates.json",
+    JSON.stringify(houseCandidates)
+  );
+
+  const senateCandidates = await getSenate();
+  writeFileSync(
+    "src/data/senate-candidates.json",
+    JSON.stringify(senateCandidates)
+  );
 })();
