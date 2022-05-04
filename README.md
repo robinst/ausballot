@@ -1,5 +1,21 @@
 # australian-election-ballot
 
+*** Disclaimer *** 
+
+This is not an official Government Website about the Australian election ballot. 
+
+There are about 5% of the total votes classified as Invalid votes because of a number of reasons. 
+
+This website contains actual candidate information retreived from the official government website.
+
+This website is designed to help voters see who are in their actual ballot paper and what it will look like on the day.
+
+This website also help voters practice voting and prepare for the actual electrion.
+
+Voters can practice filling out their ballot papers, or even take a screenshot of the practice vote and copy what they have decided/prepared to the actual ballots on the day.
+
+*** Disclaimer *** 
+
 The AEC (Australian Electoral Commission) has this page to view all the candidates for an upcoming election:
 https://www.aec.gov.au/election/candidates.htm
 

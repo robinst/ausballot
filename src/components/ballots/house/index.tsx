@@ -17,6 +17,7 @@ type HouseCandidate = {
 const renderCandidate = (candidate: HouseCandidate) => {
   return (
     <div>
+
       <p class={style.candidateName}>
         {candidate.surname}, {candidate.ballotGivenName}
       </p>
@@ -34,10 +35,11 @@ const HouseBallot: FunctionalComponent<Props> = (props: Props) => {
 
   return (
     <div class={style.ballot}>
-      <p>{state}</p>
+      <p class={style.state}>{state}</p>
       <p>Electoral Division of {division}</p>
       <hr />
       <p>Number the boxes from 1 to 8 in the order of your choice.</p>
+      <hr></hr>
       {candidates.map((c) => renderCandidate(c))}
     </div>
   );
