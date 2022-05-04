@@ -15,6 +15,7 @@ const Electorate: FunctionalComponent<Props> = (props: Props) => {
     <div class={style.electorate}>
       <SelectElectorate selectedValue={`${state}/${division}`} />
       <h2>House ballot for {division}</h2>
+      
       <HouseBallot state={state} division={division} />
 
       <h2>Senate ballot for {state}</h2>
