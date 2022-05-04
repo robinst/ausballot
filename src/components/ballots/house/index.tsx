@@ -16,12 +16,16 @@ type HouseCandidate = {
 
 const renderCandidate = (candidate: HouseCandidate) => {
   return (
-    <div>
-
+    <div class={style.candidateDiv}>
+      <div class={style.order}>
+        
+      </div>
+      <div class={style.candidateDetails}>
       <p class={style.candidateName}>
         {candidate.surname}, {candidate.ballotGivenName}
       </p>
       <p class={style.candidateParty}>{candidate.partyBallotName}</p>
+      </div>
     </div>
   );
 };
@@ -33,14 +37,19 @@ const HouseBallot: FunctionalComponent<Props> = (props: Props) => {
     division
   ] as HouseCandidate[];
 
+
+  const stateNames: any = {"NSW": "New South Wales", "ACT": "Australian Capital Teritory", "VIC": "Victoria", "QLD": "Queensland", "WA": "Western Australia"};
+  console.log(stateNames["NSW"]);
+  const stateName = stateNames[state] || state;
+
   return (
+    
     <div class={style.ballot}>
-      <p class={style.state}>{state}</p>
-      <p>Electoral Division of {division}</p>
-      <hr />
-      <p>Number the boxes from 1 to 8 in the order of your choice.</p>
-      <hr></hr>
-      {candidates.map((c) => renderCandidate(c))}
+      <p class={style.state}>{stateName}</p>
+      <p class={style.division}>Electoral Division of {division}</p>
+      <p class={style.how}>Number the boxes from 1 to {candidates.length} in the order of your choice.</p>
+
+      {candidates.map((c, i) => renderCandidate(c))}
     </div>
   );
 };

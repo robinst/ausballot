@@ -2,19 +2,62 @@
   background-color: #eff7e8;
   max-width: 20em;
   padding: 1em;
+  max-width: 421px;
 }
 
 .candidateName {
-  font-size: 1.1em;
+  font-size: 1.2em;
   font-weight: 500;
+  margin: 0;
 }
 
 .candidateParty {
   font-size: 0.8em;
   text-transform: uppercase;
+  margin: 0;
 }
 
 .state {
   font-size: 1.4em;
   margin-top: 30px;
+}
+
+.division {
+  font-size: 1.4em;
+  font-weight: bold;
+  border-bottom: 4px solid black;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  padding-bottom: 4px;
+}
+
+.how {
+  font-size: 1.75em;
+  font-weight: bold;
+  padding-bottom: 10px;
+  border-bottom: 1px solid black;
+  line-height: 1.1em;
+  margin-top: 5px;
+  word-spacing: -1px;
+}
+
+.order {
+  min-width: 50px;
+  min-height: 50px;
+  max-height: 50px;
+  border: 2px solid black;
+  margin-right: 1em;
+}
+
+.candidateDiv {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 1em;
+}
+
+.candidateDetails {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  justify-content: end;
 }
