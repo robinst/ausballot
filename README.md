@@ -48,3 +48,28 @@ That's what this tiny website does.
   your tests
 
 For detailed explanation on how things work, checkout the [CLI Readme](https://github.com/developit/preact-cli/blob/master/README.md).
+
+## House/senate candidate data
+
+The candidate data (in the `data` directory) was downloaded as `.csv` files from the AEC website here: <https://www.aec.gov.au/election/downloads.htm>
+
+It was then transformed into `.json` using the script `npx ts-node scripts/csv-to-json.ts`.
+
+We can run some analysis on the data using [jq](https://stedolan.github.io/jq/):
+
+```
+# Longest house ballot (max number of candidates):
+$ jq '[.[] | .[] | length] | max' src/data/house-candidates.json
+12
+
+# How many columns each state senate ballot has:
+$ jq -r 'to_entries[] | .key + ": " + (.value | length | tostring)' src/data/senate-candidates.json
+ACT: 12
+NSW: 24
+NT: 9
+QLD: 26
+SA: 23
+TAS: 15
+VIC: 27
+WA: 23
+```
