@@ -2,7 +2,6 @@ html,
 body {
   height: 100%;
   width: 100%;
-  /*min-width: 2000px;*/
   padding: 0;
   margin: 0;
   background: #fafafa;
@@ -19,5 +18,4 @@ body {
 
 #preact_root {
   height: 100%;
-  /*width: 100%;*/
 }
