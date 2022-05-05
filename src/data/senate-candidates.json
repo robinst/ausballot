@@ -1,1 +1,3077 @@
-{"ACT":[{"column":"A","groupName":"Australian Labor Party","candidates":[{"surname":"GALLAGHER","ballotGivenName":"Katy","partyBallotName":"Australian Labor Party"},{"surname":"NORTHAM","ballotGivenName":"Maddy","partyBallotName":"Australian Labor Party"}]},{"column":"B","groupName":"Sustainable Australia Party - Stop Overdevelopment / Corruption","candidates":[{"surname":"ANGEL","ballotGivenName":"Joy","partyBallotName":"Sustainable Australia Party - Stop Overdevelopment / Corruption"},{"surname":"HAYDON","ballotGivenName":"John","partyBallotName":"Sustainable Australia Party - Stop Overdevelopment / Corruption"}]},{"column":"C","groupName":"United Australia Party","candidates":[{"surname":"SAVOULIDIS","ballotGivenName":"James","partyBallotName":"United Australia Party"},{"surname":"PAGE","ballotGivenName":"Tracey","partyBallotName":"United Australia Party"}]},{"column":"D","groupName":"Liberal","candidates":[{"surname":"SESELJA","ballotGivenName":"Zed","partyBallotName":"Liberal"},{"surname":"LAM","ballotGivenName":"Kacey","partyBallotName":"Liberal"}]},{"column":"E","groupName":"David Pocock","candidates":[{"surname":"POCOCK","ballotGivenName":"David","partyBallotName":"David Pocock"},{"surname":"DOUBE","ballotGivenName":"Clare","partyBallotName":"David Pocock"}]},{"column":"F","groupName":"Kim for Canberra","candidates":[{"surname":"RUBENSTEIN","ballotGivenName":"Kim","partyBallotName":"Kim for Canberra"},{"surname":"HUYNH","ballotGivenName":"Kim","partyBallotName":"Kim for Canberra"}]},{"column":"G","groupName":"Australian Progressives","candidates":[{"surname":"FAULKNER","ballotGivenName":"Therese","partyBallotName":"Australian Progressives"},{"surname":"LIN","ballotGivenName":"Stephen","partyBallotName":"Australian Progressives"}]},{"column":"H","groupName":"The Greens","candidates":[{"surname":"GORENG GORENG","ballotGivenName":"Tjanara","partyBallotName":"The Greens"},{"surname":"CRUZ","ballotGivenName":"James","partyBallotName":"The Greens"}]},{"column":"I","groupName":"Legalise Cannabis Australia","candidates":[{"surname":"KATELARIS","ballotGivenName":"Andrew","partyBallotName":"Legalise Cannabis Australia"},{"surname":"STANVIC","ballotGivenName":"Michelle","partyBallotName":"Legalise Cannabis Australia"}]},{"column":"J","groupName":"Animal Justice Party","candidates":[{"surname":"del VALLE","ballotGivenName":"Yana","partyBallotName":"Animal Justice Party"},{"surname":"FAHIZ","ballotGivenName":"Jannah","partyBallotName":"Animal Justice Party"}]},{"column":"K","groupName":"Informed Medical Options Party","candidates":[{"surname":"SIMMS","ballotGivenName":"Michael","partyBallotName":"Informed Medical Options Party"},{"surname":"LIDDICOAT","ballotGivenName":"Mary-Jane","partyBallotName":"Informed Medical Options Party"}]},{"column":"UG","groupName":"","candidates":[{"surname":"LI","ballotGivenName":"Fuxin","partyBallotName":"Independent"}]}],"NSW":[{"column":"A","groupName":"Animal Justice Party","candidates":[{"surname":"BROLLO","ballotGivenName":"Darren","partyBallotName":"Animal Justice Party"},{"surname":"POWER","ballotGivenName":"Julie","partyBallotName":"Animal Justice Party"}]},{"column":"B","groupName":"TNL","candidates":[{"surname":"KEEN","ballotGivenName":"Steve","partyBallotName":"TNL"},{"surname":"GREEN","ballotGivenName":"Melissa","partyBallotName":"TNL"}]},{"column":"C","groupName":"Citizens Party","candidates":[{"surname":"LIU","ballotGivenName":"Kingsley","partyBallotName":"Citizens Party"},{"surname":"LAWLER","ballotGivenName":"Ann","partyBallotName":"Citizens Party"}]},{"column":"D","groupName":"Sustainable Australia Party - Stop Overdevelopment / Corruption","candidates":[{"surname":"LAMB","ballotGivenName":"Georgia","partyBallotName":"Sustainable Australia Party - Stop Overdevelopment / Corruption"},{"surname":"DE VIVE","ballotGivenName":"Suzanne","partyBallotName":"Sustainable Australia Party - Stop Overdevelopment / Corruption"}]},{"column":"E","groupName":"The Greens","candidates":[{"surname":"SHOEBRIDGE","ballotGivenName":"David","partyBallotName":"The Greens"},{"surname":"COHN","ballotGivenName":"Amanda","partyBallotName":"The Greens"},{"surname":"FLOOD","ballotGivenName":"Rochelle","partyBallotName":"The Greens"},{"surname":"SCOTT","ballotGivenName":"Jane","partyBallotName":"The Greens"},{"surname":"ARYA","ballotGivenName":"Hawa","partyBallotName":"The Greens"},{"surname":"WHEELER","ballotGivenName":"Danielle","partyBallotName":"The Greens"}]},{"column":"F","groupName":"","candidates":[{"surname":"BODDY","ballotGivenName":"Max","partyBallotName":""},{"surname":"GRENFELL","ballotGivenName":"Oscar","partyBallotName":""}]},{"column":"G","groupName":"Liberal & Nationals","candidates":[{"surname":"PAYNE","ballotGivenName":"Marise","partyBallotName":"Liberal"},{"surname":"CADELL","ballotGivenName":"Ross","partyBallotName":"The Nationals"},{"surname":"MOLAN","ballotGivenName":"Jim","partyBallotName":"Liberal"},{"surname":"PENFOLD","ballotGivenName":"Alison Louise","partyBallotName":"The Nationals"},{"surname":"JARVIS","ballotGivenName":"Mary-Lou","partyBallotName":"Liberal"},{"surname":"McGAHEY","ballotGivenName":"Vicky","partyBallotName":"Liberal"}]},{"column":"H","groupName":"Reason Australia","candidates":[{"surname":"CARO","ballotGivenName":"Jane","partyBallotName":"Reason Australia"},{"surname":"MAHER","ballotGivenName":"Hannah Kate","partyBallotName":"Reason Australia"},{"surname":"RYALL","ballotGivenName":"Diana","partyBallotName":"Reason Australia"}]},{"column":"I","groupName":"Socialist Alliance","candidates":[{"surname":"SANCHEZ","ballotGivenName":"Paula","partyBallotName":"Socialist Alliance"},{"surname":"LEKA","ballotGivenName":"Niko","partyBallotName":"Socialist Alliance"},{"surname":"EVANS","ballotGivenName":"Rachel","partyBallotName":"Socialist Alliance"}]},{"column":"J","groupName":"Federal ICAC Now","candidates":[{"surname":"JONES","ballotGivenName":"Ross","partyBallotName":"Federal ICAC Now"},{"surname":"ANDERSON","ballotGivenName":"Gabrielle","partyBallotName":"Federal ICAC Now"}]},{"column":"K","groupName":"Australian Democrats","candidates":[{"surname":"BATY","ballotGivenName":"Steven James","partyBallotName":"Australian Democrats"},{"surname":"ROGERS","ballotGivenName":"Suzanne","partyBallotName":"Australian Democrats"},{"surname":"RICHARDS","ballotGivenName":"Craig Edward","partyBallotName":"Australian Democrats"}]},{"column":"L","groupName":"Indigenous - Aboriginal Party of Australia","candidates":[{"surname":"WHYMAN","ballotGivenName":"Owen Douglas","partyBallotName":"Indigenous - Aboriginal Party of Australia"},{"surname":"BROOKE","ballotGivenName":"Lawrence John","partyBallotName":"Indigenous - Aboriginal Party of Australia"}]},{"column":"M","groupName":"Shooters, Fishers and Farmers Party","candidates":[{"surname":"DJURIC","ballotGivenName":"Shane","partyBallotName":"Shooters, Fishers and Farmers Party"},{"surname":"GREGORY","ballotGivenName":"Desiree J","partyBallotName":"Shooters, Fishers and Farmers Party"},{"surname":"MILGATE","ballotGivenName":"Brian","partyBallotName":"Shooters, Fishers and Farmers Party"},{"surname":"CROOKS","ballotGivenName":"Jeremy","partyBallotName":"Shooters, Fishers and Farmers Party"}]},{"column":"N","groupName":"Seniors United Party of Australia","candidates":[{"surname":"KOCHER","ballotGivenName":"Dessie","partyBallotName":"Seniors United Party of Australia"},{"surname":"BENNIE","ballotGivenName":"Ray","partyBallotName":"Seniors United Party of Australia"}]},{"column":"O","groupName":"Informed Medical Options Party","candidates":[{"surname":"O'NEILL","ballotGivenName":"Michael","partyBallotName":"Informed Medical Options Party"},{"surname":"BURNUM BURNUM","ballotGivenName":"Marelle","partyBallotName":"Informed Medical Options Party"}]},{"column":"P","groupName":"The Great Australian Party","candidates":[{"surname":"HOPKINS","ballotGivenName":"Matthew","partyBallotName":"The Great Australian Party"},{"surname":"NOHRA","ballotGivenName":"George","partyBallotName":"The Great Australian Party"}]},{"column":"Q","groupName":"Legalise Cannabis Australia","candidates":[{"surname":"BALDERSTONE","ballotGivenName":"Michael","partyBallotName":"Legalise Cannabis Australia"},{"surname":"HESTER","ballotGivenName":"Gail","partyBallotName":"Legalise Cannabis Australia"}]},{"column":"R","groupName":"FUSION: Science, Pirate, Secular, Climate Emergency","candidates":[{"surname":"LEONG","ballotGivenName":"Andrea","partyBallotName":"FUSION: Science, Pirate, Secular, Climate Emergency"},{"surname":"BRYCE","ballotGivenName":"Ian R","partyBallotName":"FUSION: Science, Pirate, Secular, Climate Emergency"}]},{"column":"S","groupName":"Pauline Hanson's One Nation","candidates":[{"surname":"McCULLOCH","ballotGivenName":"Kate","partyBallotName":"Pauline Hanson's One Nation"},{"surname":"GRIGG","ballotGivenName":"Colin","partyBallotName":"Pauline Hanson's One Nation"},{"surname":"SMITH","ballotGivenName":"Roger","partyBallotName":"Pauline Hanson's One Nation"}]},{"column":"T","groupName":"Liberal Democrats","candidates":[{"surname":"RUDDICK","ballotGivenName":"John","partyBallotName":"Liberal Democrats"},{"surname":"LARTER","ballotGivenName":"John","partyBallotName":"Liberal Democrats"},{"surname":"CALDWELL","ballotGivenName":"James Arthur","partyBallotName":"Liberal Democrats"},{"surname":"GUEST","ballotGivenName":"Mark Antony","partyBallotName":"Liberal Democrats"}]},{"column":"U","groupName":"Australian Values Party","candidates":[{"surname":"CLANCY","ballotGivenName":"Selena","partyBallotName":"Australian Values Party"},{"surname":"GILBERT","ballotGivenName":"Dave","partyBallotName":"Australian Values Party"}]},{"column":"V","groupName":"Labor","candidates":[{"surname":"O'NEILL","ballotGivenName":"Deborah","partyBallotName":"Labor"},{"surname":"McALLISTER","ballotGivenName":"Jenny","partyBallotName":"Labor"},{"surname":"MORRIS","ballotGivenName":"Shireen","partyBallotName":"Labor"},{"surname":"MYERS","ballotGivenName":"Mich-Elle Elizabeth","partyBallotName":"Labor"},{"surname":"ROSE","ballotGivenName":"Kylie Anne","partyBallotName":"Labor"},{"surname":"WARREN-SMITH","ballotGivenName":"James","partyBallotName":"Labor"}]},{"column":"W","groupName":"United Australia Party","candidates":[{"surname":"MARTINO","ballotGivenName":"Domenic Vincent","partyBallotName":"United Australia Party"},{"surname":"WRIGHTSON","ballotGivenName":"Suellen","partyBallotName":"United Australia Party"},{"surname":"MOORE","ballotGivenName":"Wayne Leslie","partyBallotName":"United Australia Party"},{"surname":"MARTIN","ballotGivenName":"Michelle","partyBallotName":"United Australia Party"},{"surname":"YAP","ballotGivenName":"Johnny","partyBallotName":"United Australia Party"},{"surname":"LOUGHREY","ballotGivenName":"Kevin Andrew","partyBallotName":"United Australia Party"}]},{"column":"UG","groupName":"","candidates":[{"surname":"LIM","ballotGivenName":"Danny","partyBallotName":"Independent"},{"surname":"COLLINS","ballotGivenName":"Julie","partyBallotName":"Independent"},{"surname":"GRZIC","ballotGivenName":"Warren","partyBallotName":"Independent"},{"surname":"LU","ballotGivenName":"Guitang","partyBallotName":"Independent"},{"surname":"LAING","ballotGivenName":"William","partyBallotName":"Independent"}]}],"NT":[{"column":"A","groupName":"NT CLP","candidates":[{"surname":"PRICE","ballotGivenName":"Jacinta Nampijinpa","partyBallotName":"NT CLP"},{"surname":"CIVITARESE","ballotGivenName":"Kris","partyBallotName":"NT CLP"}]},{"column":"B","groupName":"Liberal Democrats","candidates":[{"surname":"McMAHON","ballotGivenName":"Sam","partyBallotName":"Liberal Democrats"},{"surname":"HANSEN","ballotGivenName":"Jed","partyBallotName":"Liberal Democrats"}]},{"column":"C","groupName":"A.L.P.","candidates":[{"surname":"McCARTHY","ballotGivenName":"Malarndirri","partyBallotName":"A.L.P."},{"surname":"GANLEY","ballotGivenName":"Kate","partyBallotName":"A.L.P."}]},{"column":"D","groupName":"Legalise Cannabis Australia","candidates":[{"surname":"LAWRENCE","ballotGivenName":"Lance","partyBallotName":"Legalise Cannabis Australia"},{"surname":"HIBBERT","ballotGivenName":"Kelly-Anne","partyBallotName":"Legalise Cannabis Australia"}]},{"column":"E","groupName":"Sustainable Australia Party - Stop Overdevelopment / Corruption","candidates":[{"surname":"WHYTE","ballotGivenName":"Lamaan","partyBallotName":"Sustainable Australia Party - Stop Overdevelopment / Corruption"},{"surname":"BELCHER","ballotGivenName":"Richard","partyBallotName":"Sustainable Australia Party - Stop Overdevelopment / Corruption"}]},{"column":"F","groupName":"The Great Australian Party","candidates":[{"surname":"ARRIGO","ballotGivenName":"Steve","partyBallotName":"The Great Australian Party"},{"surname":"MARCUS","ballotGivenName":"Angela","partyBallotName":"The Great Australian Party"}]},{"column":"G","groupName":"Citizens Party","candidates":[{"surname":"CAMPBELL","ballotGivenName":"Trudy","partyBallotName":"Citizens Party"},{"surname":"FLYNN","ballotGivenName":"Peter","partyBallotName":"Citizens Party"}]},{"column":"H","groupName":"The Greens","candidates":[{"surname":"ANLEZARK","ballotGivenName":"Jane","partyBallotName":"The Greens"},{"surname":"STOKES","ballotGivenName":"Dianne","partyBallotName":"The Greens"}]},{"column":"UG","groupName":"","candidates":[{"surname":"RAJWIN","ballotGivenName":"Raj","partyBallotName":"United Australia Party"}]}],"QLD":[{"column":"A","groupName":"","candidates":[{"surname":"HARRIS","ballotGivenName":"Len","partyBallotName":""},{"surname":"YUILLE","ballotGivenName":"Debra","partyBallotName":""}]},{"column":"B","groupName":"Socialist Alliance","candidates":[{"surname":"LEES","ballotGivenName":"Renee","partyBallotName":"Socialist Alliance"},{"surname":"EMANUEL","ballotGivenName":"Kamala","partyBallotName":"Socialist Alliance"}]},{"column":"C","groupName":"Legalise Cannabis Australia","candidates":[{"surname":"BRADLEY","ballotGivenName":"Bernard Anthony","partyBallotName":"Legalise Cannabis Australia"},{"surname":"LUYKEN","ballotGivenName":"Suzette","partyBallotName":"Legalise Cannabis Australia"}]},{"column":"D","groupName":"Sustainable Australia Party - Stop Overdevelopment / Corruption","candidates":[{"surname":"MARTIN","ballotGivenName":"Rhett","partyBallotName":"Sustainable Australia Party - Stop Overdevelopment / Corruption"},{"surname":"FIRESTONE","ballotGivenName":"Timotheos","partyBallotName":"Sustainable Australia Party - Stop Overdevelopment / Corruption"}]},{"column":"E","groupName":"Reason Australia","candidates":[{"surname":"WILLIAMS","ballotGivenName":"Ron","partyBallotName":"Reason Australia"},{"surname":"JORDAN","ballotGivenName":"Frank","partyBallotName":"Reason Australia"}]},{"column":"F","groupName":"TNL","candidates":[{"surname":"BRENNAN","ballotGivenName":"Bess","partyBallotName":"TNL"},{"surname":"KENNISH","ballotGivenName":"Hannah","partyBallotName":"TNL"},{"surname":"HOPLEY","ballotGivenName":"Steven","partyBallotName":"TNL"},{"surname":"MOMSEN","ballotGivenName":"Jonathon","partyBallotName":"TNL"},{"surname":"INGRAM","ballotGivenName":"Lloyd","partyBallotName":"TNL"},{"surname":"CREIGHTON","ballotGivenName":"Jack","partyBallotName":"TNL"}]},{"column":"G","groupName":"Federal ICAC Now","candidates":[{"surname":"PAYNE","ballotGivenName":"Kerin","partyBallotName":"Federal ICAC Now"},{"surname":"CARROLL","ballotGivenName":"Ken","partyBallotName":"Federal ICAC Now"}]},{"column":"H","groupName":"","candidates":[{"surname":"DICKSON","ballotGivenName":"Steve","partyBallotName":""},{"surname":"LLOYD","ballotGivenName":"Rebecca","partyBallotName":""}]},{"column":"I","groupName":"","candidates":[{"surname":"HEAD","ballotGivenName":"Mike","partyBallotName":""},{"surname":"DAVIS","ballotGivenName":"John","partyBallotName":""}]},{"column":"J","groupName":"Queensland Greens","candidates":[{"surname":"ALLMAN-PAYNE","ballotGivenName":"Penny","partyBallotName":"Queensland Greens"},{"surname":"SRI","ballotGivenName":"Anna","partyBallotName":"Queensland Greens"},{"surname":"PENNINGS","ballotGivenName":"Ben","partyBallotName":"Queensland Greens"},{"surname":"SIDHU","ballotGivenName":"Navdeep Singh","partyBallotName":"Queensland Greens"},{"surname":"NELLIGAN","ballotGivenName":"Alyce","partyBallotName":"Queensland Greens"},{"surname":"HALEY","ballotGivenName":"Rebecca","partyBallotName":"Queensland Greens"}]},{"column":"K","groupName":"Indigenous - Aboriginal Party of Australia","candidates":[{"surname":"HENAWAY","ballotGivenName":"Lionel","partyBallotName":"Indigenous - Aboriginal Party of Australia"},{"surname":"CARR","ballotGivenName":"Jenny-Lee","partyBallotName":"Indigenous - Aboriginal Party of Australia"}]},{"column":"L","groupName":"Citizens Party","candidates":[{"surname":"PUKALLUS","ballotGivenName":"Jan","partyBallotName":"Citizens Party"},{"surname":"DOEL","ballotGivenName":"Rod","partyBallotName":"Citizens Party"}]},{"column":"M","groupName":"The Great Australian Party","candidates":[{"surname":"MILES","ballotGivenName":"Jason","partyBallotName":"The Great Australian Party"},{"surname":"COTTAM","ballotGivenName":"Elise","partyBallotName":"The Great Australian Party"}]},{"column":"N","groupName":"Australian Values Party","candidates":[{"surname":"RUSSELL","ballotGivenName":"Heston","partyBallotName":"Australian Values Party"},{"surname":"HANSEN","ballotGivenName":"Jay","partyBallotName":"Australian Values Party"}]},{"column":"O","groupName":"Australian Federation Party","candidates":[{"surname":"TILYARD","ballotGivenName":"Isabel","partyBallotName":"Australian Federation Party"},{"surname":"BENNETT","ballotGivenName":"Jackie","partyBallotName":"Australian Federation Party"},{"surname":"SMYTH","ballotGivenName":"Michael Francis","partyBallotName":"Australian Federation Party"}]},{"column":"P","groupName":"Animal Justice Party","candidates":[{"surname":"SEVERNS","ballotGivenName":"Mackenzie","partyBallotName":"Animal Justice Party"},{"surname":"WEBER","ballotGivenName":"Sue","partyBallotName":"Animal Justice Party"}]},{"column":"Q","groupName":"Australian Democrats","candidates":[{"surname":"ARBUCKLE","ballotGivenName":"Luke","partyBallotName":"Australian Democrats"},{"surname":"SIMPSON","ballotGivenName":"Chris","partyBallotName":"Australian Democrats"}]},{"column":"R","groupName":"United Australia Party","candidates":[{"surname":"PALMER","ballotGivenName":"Clive Frederick","partyBallotName":"United Australia Party"},{"surname":"BREWSTER","ballotGivenName":"Martin","partyBallotName":"United Australia Party"},{"surname":"ADIDI","ballotGivenName":"Desmond","partyBallotName":"United Australia Party"},{"surname":"McCABE","ballotGivenName":"Jack","partyBallotName":"United Australia Party"}]},{"column":"S","groupName":"Liberal National Party of Queensland","candidates":[{"surname":"McGRATH","ballotGivenName":"James","partyBallotName":"Liberal National Party of Queensland"},{"surname":"CANAVAN","ballotGivenName":"Matt","partyBallotName":"Liberal National Party of Queensland"},{"surname":"STOKER","ballotGivenName":"Amanda","partyBallotName":"Liberal National Party of Queensland"},{"surname":"TOBIN","ballotGivenName":"Nicole","partyBallotName":"Liberal National Party of Queensland"},{"surname":"CRIPPS","ballotGivenName":"Andrew","partyBallotName":"Liberal National Party of Queensland"},{"surname":"WARD","ballotGivenName":"Fiona","partyBallotName":"Liberal National Party of Queensland"}]},{"column":"T","groupName":"Informed Medical Options Party","candidates":[{"surname":"LAHN","ballotGivenName":"Allona","partyBallotName":"Informed Medical Options Party"},{"surname":"MELHOP","ballotGivenName":"Jasmine","partyBallotName":"Informed Medical Options Party"},{"surname":"LAMBETH","ballotGivenName":"Peter","partyBallotName":"Informed Medical Options Party"}]},{"column":"U","groupName":"FUSION: Science, Pirate, Secular, Climate Emergency","candidates":[{"surname":"SELIC","ballotGivenName":"Brandon","partyBallotName":"FUSION: Science, Pirate, Secular, Climate Emergency"},{"surname":"WHATLING","ballotGivenName":"Roger","partyBallotName":"FUSION: Science, Pirate, Secular, Climate Emergency"}]},{"column":"V","groupName":"Drew Pavlou Democratic Alliance","candidates":[{"surname":"PAVLOU","ballotGivenName":"Drew","partyBallotName":"Drew Pavlou Democratic Alliance"},{"surname":"LEITCH","ballotGivenName":"Simon","partyBallotName":"Drew Pavlou Democratic Alliance"}]},{"column":"W","groupName":"Liberal Democrats","candidates":[{"surname":"NEWMAN","ballotGivenName":"Campbell","partyBallotName":"Liberal Democrats"},{"surname":"GRAINGER","ballotGivenName":"Tegan","partyBallotName":"Liberal Democrats"}]},{"column":"X","groupName":"Pauline Hanson's One Nation","candidates":[{"surname":"HANSON","ballotGivenName":"Pauline","partyBallotName":"Pauline Hanson's One Nation"},{"surname":"GURUSWAMY","ballotGivenName":"Raj","partyBallotName":"Pauline Hanson's One Nation"},{"surname":"CHRISTENSEN","ballotGivenName":"George","partyBallotName":"Pauline Hanson's One Nation"}]},{"column":"Y","groupName":"Australian Labor Party","candidates":[{"surname":"WATT","ballotGivenName":"Murray","partyBallotName":"Australian Labor Party"},{"surname":"CHISHOLM","ballotGivenName":"Anthony","partyBallotName":"Australian Labor Party"},{"surname":"ANDREW","ballotGivenName":"Edwina","partyBallotName":"Australian Labor Party"},{"surname":"WARRY","ballotGivenName":"Christina","partyBallotName":"Australian Labor Party"},{"surname":"HENDERSON","ballotGivenName":"Jen","partyBallotName":"Australian Labor Party"},{"surname":"PASCOE","ballotGivenName":"Richard","partyBallotName":"Australian Labor Party"}]},{"column":"UG","groupName":"","candidates":[{"surname":"LYON","ballotGivenName":"Robert","partyBallotName":"Katter's Australian Party (KAP)"},{"surname":"SCHEFE","ballotGivenName":"David John","partyBallotName":"Independent"},{"surname":"TEMPLE","ballotGivenName":"Lindsay","partyBallotName":"Independent"},{"surname":"HAMILTON","ballotGivenName":"Chey Geoffrey","partyBallotName":"Independent"},{"surname":"SMITH","ballotGivenName":"Lorraine","partyBallotName":"Independent"},{"surname":"QUINLIVAN","ballotGivenName":"Laurence","partyBallotName":"Independent"},{"surname":"KOCHARDY","ballotGivenName":"Karakan Karoly","partyBallotName":"Independent"},{"surname":"ROGERS","ballotGivenName":"Peter","partyBallotName":"Independent"}]}],"SA":[{"column":"A","groupName":"Liberal Democrats","candidates":[{"surname":"MARKOS","ballotGivenName":"Ian","partyBallotName":"Liberal Democrats"},{"surname":"SMITH","ballotGivenName":"Josh","partyBallotName":"Liberal Democrats"}]},{"column":"B","groupName":"Animal Justice Party","candidates":[{"surname":"PFEIFFER","ballotGivenName":"Louise","partyBallotName":"Animal Justice Party"},{"surname":"PASTRO","ballotGivenName":"Julie","partyBallotName":"Animal Justice Party"}]},{"column":"C","groupName":"Liberal","candidates":[{"surname":"BIRMINGHAM","ballotGivenName":"Simon","partyBallotName":"Liberal"},{"surname":"McLACHLAN","ballotGivenName":"Andrew","partyBallotName":"Liberal"},{"surname":"LIDDLE","ballotGivenName":"Kerrynne","partyBallotName":"Liberal"},{"surname":"STOCK","ballotGivenName":"Tania","partyBallotName":"Liberal"}]},{"column":"D","groupName":"Australian Labor Party","candidates":[{"surname":"WONG","ballotGivenName":"Penny","partyBallotName":"Australian Labor Party"},{"surname":"FARRELL","ballotGivenName":"Don","partyBallotName":"Australian Labor Party"},{"surname":"GILL","ballotGivenName":"Trimann","partyBallotName":"Australian Labor Party"},{"surname":"SUTTON","ballotGivenName":"Joanne","partyBallotName":"Australian Labor Party"},{"surname":"OWENS","ballotGivenName":"Belinda","partyBallotName":"Australian Labor Party"}]},{"column":"E","groupName":"","candidates":[{"surname":"DAY","ballotGivenName":"Bob","partyBallotName":""},{"surname":"AMADIO","ballotGivenName":"Pat","partyBallotName":""}]},{"column":"F","groupName":"The Great Australian Party","candidates":[{"surname":"EASON","ballotGivenName":"Jo-Anne","partyBallotName":"The Great Australian Party"},{"surname":"BENNETT","ballotGivenName":"Trevor","partyBallotName":"The Great Australian Party"}]},{"column":"G","groupName":"National Party","candidates":[{"surname":"BLANDFORD","ballotGivenName":"Lisa","partyBallotName":"National Party"},{"surname":"BUIJS","ballotGivenName":"Damien","partyBallotName":"National Party"}]},{"column":"H","groupName":"Sustainable Australia Party - Stop Overdevelopment / Corruption","candidates":[{"surname":"MICHIE","ballotGivenName":"Elise","partyBallotName":"Sustainable Australia Party - Stop Overdevelopment / Corruption"},{"surname":"DUXBURY","ballotGivenName":"Jack","partyBallotName":"Sustainable Australia Party - Stop Overdevelopment / Corruption"}]},{"column":"I","groupName":"The Local Party","candidates":[{"surname":"FINNEY","ballotGivenName":"Julie-Ann","partyBallotName":"The Local Party"},{"surname":"PARNELL","ballotGivenName":"Rodney Kenneth","partyBallotName":"The Local Party"}]},{"column":"J","groupName":"Australian Federation Party","candidates":[{"surname":"BYRNE","ballotGivenName":"Cathy","partyBallotName":"Australian Federation Party"},{"surname":"DUFFIELD","ballotGivenName":"Nick","partyBallotName":"Australian Federation Party"}]},{"column":"K","groupName":"Australian Democrats","candidates":[{"surname":"YAZBEK","ballotGivenName":"Roger","partyBallotName":"Australian Democrats"},{"surname":"KANCK","ballotGivenName":"Sandra","partyBallotName":"Australian Democrats"}]},{"column":"L","groupName":"Drew Pavlou Democratic Alliance","candidates":[{"surname":"YARMUHAMMAD","ballotGivenName":"Adila","partyBallotName":"Drew Pavlou Democratic Alliance"},{"surname":"YARMUHAMMAD","ballotGivenName":"Amina","partyBallotName":"Drew Pavlou Democratic Alliance"}]},{"column":"M","groupName":"","candidates":[{"surname":"KAUR","ballotGivenName":"Harmeet","partyBallotName":""},{"surname":"KUMAR","ballotGivenName":"Rajesh","partyBallotName":""}]},{"column":"N","groupName":"FUSION: Science, Pirate, Secular, Climate Emergency","candidates":[{"surname":"WOLFENDALE","ballotGivenName":"Drew","partyBallotName":"FUSION: Science, Pirate, Secular, Climate Emergency"},{"surname":"KENNEDY","ballotGivenName":"David","partyBallotName":"FUSION: Science, Pirate, Secular, Climate Emergency"}]},{"column":"O","groupName":"","candidates":[{"surname":"XENOPHON","ballotGivenName":"Nick","partyBallotName":""},{"surname":"GRIFF","ballotGivenName":"Stirling","partyBallotName":""}]},{"column":"P","groupName":"The Greens","candidates":[{"surname":"POCOCK","ballotGivenName":"Barbara","partyBallotName":"The Greens"},{"surname":"SUMNER","ballotGivenName":"Major Moogy","partyBallotName":"The Greens"},{"surname":"SELWOOD","ballotGivenName":"Melanie","partyBallotName":"The Greens"}]},{"column":"Q","groupName":"Informed Medical Options Party","candidates":[{"surname":"CRUISE","ballotGivenName":"Raina","partyBallotName":"Informed Medical Options Party"},{"surname":"HARLEY","ballotGivenName":"Heather","partyBallotName":"Informed Medical Options Party"}]},{"column":"R","groupName":"Rex Patrick Team","candidates":[{"surname":"PATRICK","ballotGivenName":"Rex","partyBallotName":"Rex Patrick Team"},{"surname":"McMAHON","ballotGivenName":"Leonie","partyBallotName":"Rex Patrick Team"}]},{"column":"S","groupName":"Pauline Hanson's One Nation","candidates":[{"surname":"GAME","ballotGivenName":"Jennifer","partyBallotName":"Pauline Hanson's One Nation"},{"surname":"WATCHMAN","ballotGivenName":"Alan","partyBallotName":"Pauline Hanson's One Nation"}]},{"column":"T","groupName":"Legalise Cannabis Australia","candidates":[{"surname":"GREEN","ballotGivenName":"Tyler Bradley","partyBallotName":"Legalise Cannabis Australia"},{"surname":"ADAMS","ballotGivenName":"Angela","partyBallotName":"Legalise Cannabis Australia"}]},{"column":"U","groupName":"United Australia Party","candidates":[{"surname":"ARBON","ballotGivenName":"Michael","partyBallotName":"United Australia Party"},{"surname":"SCHILD","ballotGivenName":"Caelum","partyBallotName":"United Australia Party"}]},{"column":"V","groupName":"Citizens Party","candidates":[{"surname":"FRANCIS","ballotGivenName":"Russell","partyBallotName":"Citizens Party"},{"surname":"CURREY","ballotGivenName":"Rodney","partyBallotName":"Citizens Party"}]},{"column":"UG","groupName":"","candidates":[{"surname":"HOPPER","ballotGivenName":"Michael","partyBallotName":"Independent"}]}],"TAS":[{"column":"A","groupName":"Sustainable Australia Party - Stop Overdevelopment / Corruption","candidates":[{"surname":"DUDLEY","ballotGivenName":"Todd","partyBallotName":"Sustainable Australia Party - Stop Overdevelopment / Corruption"},{"surname":"LOCKWOOD","ballotGivenName":"Daria","partyBallotName":"Sustainable Australia Party - Stop Overdevelopment / Corruption"}]},{"column":"B","groupName":"Pauline Hanson's One Nation","candidates":[{"surname":"MAV","ballotGivenName":"Steve","partyBallotName":"Pauline Hanson's One Nation"},{"surname":"BUTTON","ballotGivenName":"Norelle","partyBallotName":"Pauline Hanson's One Nation"}]},{"column":"C","groupName":"Animal Justice Party","candidates":[{"surname":"DAVIS","ballotGivenName":"Ivan","partyBallotName":"Animal Justice Party"},{"surname":"THOMAS-WURTH","ballotGivenName":"Virginia","partyBallotName":"Animal Justice Party"}]},{"column":"D","groupName":"Australian Labor Party","candidates":[{"surname":"URQUHART","ballotGivenName":"Anne","partyBallotName":"Australian Labor Party"},{"surname":"POLLEY","ballotGivenName":"Helen","partyBallotName":"Australian Labor Party"},{"surname":"RAINBIRD","ballotGivenName":"Kate","partyBallotName":"Australian Labor Party"},{"surname":"HULME","ballotGivenName":"Daniel","partyBallotName":"Australian Labor Party"},{"surname":"ROBERTS","ballotGivenName":"Wayne","partyBallotName":"Australian Labor Party"},{"surname":"GOURLAY","ballotGivenName":"Chris","partyBallotName":"Australian Labor Party"}]},{"column":"E","groupName":"Legalise Cannabis Australia","candidates":[{"surname":"OWEN","ballotGivenName":"Matt","partyBallotName":"Legalise Cannabis Australia"},{"surname":"FITZGIBBON","ballotGivenName":"Oliver","partyBallotName":"Legalise Cannabis Australia"}]},{"column":"F","groupName":"Shooters, Fishers and Farmers Party","candidates":[{"surname":"WILLIAMS","ballotGivenName":"Ray","partyBallotName":"Shooters, Fishers and Farmers Party"},{"surname":"DI FALCO","ballotGivenName":"Carlo","partyBallotName":"Shooters, Fishers and Farmers Party"},{"surname":"JONES","ballotGivenName":"Brenton Ronald","partyBallotName":"Shooters, Fishers and Farmers Party"}]},{"column":"G","groupName":"Australian Federation Party","candidates":[{"surname":"BROOMHALL","ballotGivenName":"Ray","partyBallotName":"Australian Federation Party"},{"surname":"STRINGER","ballotGivenName":"Justin","partyBallotName":"Australian Federation Party"}]},{"column":"H","groupName":"The Local Party","candidates":[{"surname":"MINSHULL","ballotGivenName":"Leanne","partyBallotName":"The Local Party"},{"surname":"POULTON","ballotGivenName":"Linda","partyBallotName":"The Local Party"},{"surname":"VAN RAAY","ballotGivenName":"Lara","partyBallotName":"The Local Party"}]},{"column":"I","groupName":"The Greens","candidates":[{"surname":"WHISH-WILSON","ballotGivenName":"Peter","partyBallotName":"The Greens"},{"surname":"BLEYER","ballotGivenName":"Vanessa","partyBallotName":"The Greens"},{"surname":"BADGER","ballotGivenName":"Tabatha","partyBallotName":"The Greens"}]},{"column":"J","groupName":"Liberal Democrats","candidates":[{"surname":"FIELD","ballotGivenName":"Topher","partyBallotName":"Liberal Democrats"},{"surname":"CROFT","ballotGivenName":"Chris","partyBallotName":"Liberal Democrats"}]},{"column":"K","groupName":"United Australia Party","candidates":[{"surname":"ADAMS","ballotGivenName":"Diana","partyBallotName":"United Australia Party"},{"surname":"HENNESSY","ballotGivenName":"Alan","partyBallotName":"United Australia Party"}]},{"column":"L","groupName":"Liberal","candidates":[{"surname":"DUNIAM","ballotGivenName":"Jonno","partyBallotName":"Liberal"},{"surname":"ASKEW","ballotGivenName":"Wendy","partyBallotName":"Liberal"},{"surname":"ABETZ","ballotGivenName":"Eric","partyBallotName":"Liberal"}]},{"column":"M","groupName":"Jacqui Lambie Network","candidates":[{"surname":"TYRRELL","ballotGivenName":"Tammy","partyBallotName":"Jacqui Lambie Network"},{"surname":"GROAT","ballotGivenName":"Sarah","partyBallotName":"Jacqui Lambie Network"},{"surname":"LAMBIE","ballotGivenName":"Tom","partyBallotName":"Jacqui Lambie Network"}]},{"column":"N","groupName":"Informed Medical Options Party","candidates":[{"surname":"KERSHAW","ballotGivenName":"Lynne","partyBallotName":"Informed Medical Options Party"},{"surname":"PICKERING","ballotGivenName":"Matthew","partyBallotName":"Informed Medical Options Party"}]},{"column":"UG","groupName":"","candidates":[{"surname":"CROTHERS","ballotGivenName":"Steve","partyBallotName":"Independent"},{"surname":"EDWARDS","ballotGivenName":"Fenella","partyBallotName":"Independent"}]}],"VIC":[{"column":"A","groupName":"Reason Australia","candidates":[{"surname":"VEGA","ballotGivenName":"Yolanda","partyBallotName":"Reason Australia"},{"surname":"MILLWARD","ballotGivenName":"Harry","partyBallotName":"Reason Australia"}]},{"column":"B","groupName":"","candidates":[{"surname":"RICHARDSON","ballotGivenName":"Damien","partyBallotName":""},{"surname":"McBRIDE","ballotGivenName":"John","partyBallotName":""}]},{"column":"C","groupName":"Australian Democrats","candidates":[{"surname":"GREEN","ballotGivenName":"Leonie","partyBallotName":"Australian Democrats"},{"surname":"JAGOE","ballotGivenName":"Stephen Peter","partyBallotName":"Australian Democrats"}]},{"column":"D","groupName":"Liberal/The Nationals","candidates":[{"surname":"HENDERSON","ballotGivenName":"Sarah","partyBallotName":"Liberal"},{"surname":"McKENZIE","ballotGivenName":"Bridget","partyBallotName":"The Nationals"},{"surname":"MIRABELLA","ballotGivenName":"Greg","partyBallotName":"Liberal"},{"surname":"KMETJ","ballotGivenName":"Chrestyna","partyBallotName":"Liberal"},{"surname":"HARRINGTON","ballotGivenName":"Mick","partyBallotName":"The Nationals"},{"surname":"BURGESS","ballotGivenName":"David","partyBallotName":"Liberal"}]},{"column":"E","groupName":"Legalise Cannabis Australia","candidates":[{"surname":"SMITH","ballotGivenName":"Elissa","partyBallotName":"Legalise Cannabis Australia"},{"surname":"TAYLOR","ballotGivenName":"Wayne","partyBallotName":"Legalise Cannabis Australia"}]},{"column":"F","groupName":"Sustainable Australia Party - Stop Overdevelopment / Corruption","candidates":[{"surname":"WEARNE","ballotGivenName":"Madeleine","partyBallotName":"Sustainable Australia Party - Stop Overdevelopment / Corruption"},{"surname":"LONG","ballotGivenName":"Robert","partyBallotName":"Sustainable Australia Party - Stop Overdevelopment / Corruption"}]},{"column":"G","groupName":"Australian Values Party","candidates":[{"surname":"BURSON","ballotGivenName":"Chris","partyBallotName":"Australian Values Party"},{"surname":"ASSER","ballotGivenName":"Samantha","partyBallotName":"Australian Values Party"}]},{"column":"H","groupName":"Derryn Hinch's Justice Party","candidates":[{"surname":"HINCH","ballotGivenName":"Derryn","partyBallotName":"Derryn Hinch's Justice Party"},{"surname":"STANFIELD","ballotGivenName":"Ruth","partyBallotName":"Derryn Hinch's Justice Party"}]},{"column":"I","groupName":"Animal Justice Party","candidates":[{"surname":"CURRIE","ballotGivenName":"Bronwyn","partyBallotName":"Animal Justice Party"},{"surname":"DELFORCE","ballotGivenName":"Chris","partyBallotName":"Animal Justice Party"}]},{"column":"J","groupName":"Australian Progressives","candidates":[{"surname":"PITT","ballotGivenName":"Antoinette","partyBallotName":"Australian Progressives"},{"surname":"KNIGHT","ballotGivenName":"David","partyBallotName":"Australian Progressives"}]},{"column":"K","groupName":"Australian Labor Party","candidates":[{"surname":"WHITE","ballotGivenName":"Linda","partyBallotName":"Australian Labor Party"},{"surname":"STEWART","ballotGivenName":"Jana","partyBallotName":"Australian Labor Party"},{"surname":"NUNN","ballotGivenName":"Casey","partyBallotName":"Australian Labor Party"},{"surname":"BRIDGER-DARLING","ballotGivenName":"Megan","partyBallotName":"Australian Labor Party"},{"surname":"McFARLANE","ballotGivenName":"Josh","partyBallotName":"Australian Labor Party"}]},{"column":"L","groupName":"United Australia Party","candidates":[{"surname":"BABET","ballotGivenName":"Ralph","partyBallotName":"United Australia Party"},{"surname":"MORAN","ballotGivenName":"Kelly","partyBallotName":"United Australia Party"},{"surname":"GRIMMOND","ballotGivenName":"Kenneth","partyBallotName":"United Australia Party"}]},{"column":"M","groupName":"Socialist Alliance","candidates":[{"surname":"DANCE","ballotGivenName":"Felix","partyBallotName":"Socialist Alliance"},{"surname":"CARR","ballotGivenName":"Angela","partyBallotName":"Socialist Alliance"}]},{"column":"N","groupName":"Australian Federation Party","candidates":[{"surname":"HUGHES","ballotGivenName":"Vern","partyBallotName":"Australian Federation Party"},{"surname":"KIM","ballotGivenName":"Karen","partyBallotName":"Australian Federation Party"},{"surname":"LACEY","ballotGivenName":"Cheryl","partyBallotName":"Australian Federation Party"},{"surname":"MARA","ballotGivenName":"Chris","partyBallotName":"Australian Federation Party"},{"surname":"SEWAK","ballotGivenName":"Neerja","partyBallotName":"Australian Federation Party"},{"surname":"O'CONNELL","ballotGivenName":"Mark","partyBallotName":"Australian Federation Party"}]},{"column":"O","groupName":"Shooters, Fishers and Farmers Party","candidates":[{"surname":"CONSTANTINOU","ballotGivenName":"Ethan","partyBallotName":"Shooters, Fishers and Farmers Party"},{"surname":"BOURMAN","ballotGivenName":"Nicole","partyBallotName":"Shooters, Fishers and Farmers Party"}]},{"column":"P","groupName":"Pauline Hanson's One Nation","candidates":[{"surname":"PICKERING","ballotGivenName":"Warren","partyBallotName":"Pauline Hanson's One Nation"},{"surname":"HUXHAM","ballotGivenName":"Stuart","partyBallotName":"Pauline Hanson's One Nation"}]},{"column":"Q","groupName":"Citizens Party","candidates":[{"surname":"BARWICK","ballotGivenName":"Robbie","partyBallotName":"Citizens Party"},{"surname":"ISHERWOOD","ballotGivenName":"Craig","partyBallotName":"Citizens Party"}]},{"column":"R","groupName":"","candidates":[{"surname":"JONAS","ballotGivenName":"Morgan C","partyBallotName":""},{"surname":"SMIT","ballotGivenName":"Monica","partyBallotName":""}]},{"column":"S","groupName":"FUSION: Science, Pirate, Secular, Climate Emergency","candidates":[{"surname":"CORDNER HUNT","ballotGivenName":"Kammy","partyBallotName":"FUSION: Science, Pirate, Secular, Climate Emergency"},{"surname":"FARRANT","ballotGivenName":"Tahlia","partyBallotName":"FUSION: Science, Pirate, Secular, Climate Emergency"}]},{"column":"T","groupName":"","candidates":[{"surname":"BENEDYKA","ballotGivenName":"Susan","partyBallotName":""},{"surname":"RICHARDS","ballotGivenName":"Christine","partyBallotName":""}]},{"column":"U","groupName":"The Greens","candidates":[{"surname":"THORPE","ballotGivenName":"Lidia","partyBallotName":"The Greens"},{"surname":"FROGLEY","ballotGivenName":"Adam","partyBallotName":"The Greens"},{"surname":"AUSTIN","ballotGivenName":"Sissy","partyBallotName":"The Greens"},{"surname":"PAYNE","ballotGivenName":"Zeb","partyBallotName":"The Greens"}]},{"column":"V","groupName":"The Great Australian Party","candidates":[{"surname":"O'BRYAN","ballotGivenName":"Darryl","partyBallotName":"The Great Australian Party"},{"surname":"WHITEHEAD","ballotGivenName":"Geoff","partyBallotName":"The Great Australian Party"}]},{"column":"W","groupName":"Liberal Democrats","candidates":[{"surname":"LIMBRICK","ballotGivenName":"David","partyBallotName":"Liberal Democrats"},{"surname":"MITCHELL","ballotGivenName":"Krystle","partyBallotName":"Liberal Democrats"},{"surname":"WHITE","ballotGivenName":"Caroline","partyBallotName":"Liberal Democrats"}]},{"column":"X","groupName":"Informed Medical Options Party","candidates":[{"surname":"CLONARIDIS","ballotGivenName":"Nick","partyBallotName":"Informed Medical Options Party"},{"surname":"CURNOW","ballotGivenName":"Robyn","partyBallotName":"Informed Medical Options Party"}]},{"column":"Y","groupName":"","candidates":[{"surname":"BYRNE","ballotGivenName":"Peter","partyBallotName":""},{"surname":"WARDLE","ballotGivenName":"Jason","partyBallotName":""}]},{"column":"Z","groupName":"Victorian Socialists","candidates":[{"surname":"MYLVAGANAM","ballotGivenName":"Aran","partyBallotName":"Victorian Socialists"},{"surname":"RICCARDI","ballotGivenName":"Laura","partyBallotName":"Victorian Socialists"}]},{"column":"UG","groupName":"","candidates":[{"surname":"FLOYD","ballotGivenName":"Glenn","partyBallotName":"Independent"},{"surname":"RIDGEWAY","ballotGivenName":"Allen","partyBallotName":"Independent"},{"surname":"BOND","ballotGivenName":"James","partyBallotName":"Independent"},{"surname":"SMITH","ballotGivenName":"Neal","partyBallotName":"Independent"},{"surname":"DICKS","ballotGivenName":"Max","partyBallotName":"Independent"},{"surname":"ATKINSON","ballotGivenName":"Bernardine","partyBallotName":"Independent"},{"surname":"ROSS","ballotGivenName":"Paul","partyBallotName":"Independent"},{"surname":"DE FRANCESCO","ballotGivenName":"Nat","partyBallotName":"Independent"},{"surname":"TOSCANO","ballotGivenName":"Joseph","partyBallotName":"Independent"},{"surname":"TRAN","ballotGivenName":"Tara","partyBallotName":"Independent"},{"surname":"DILLON","ballotGivenName":"David John","partyBallotName":"Independent"},{"surname":"GONSALVEZ","ballotGivenName":"Geraldine Marie Antoinette","partyBallotName":"Independent"}]}],"WA":[{"column":"A","groupName":"The Greens (WA)","candidates":[{"surname":"COX","ballotGivenName":"Dorinda","partyBallotName":"The Greens (WA)"},{"surname":"CLARKE","ballotGivenName":"River","partyBallotName":"The Greens (WA)"},{"surname":"COLLINS","ballotGivenName":"Simone","partyBallotName":"The Greens (WA)"},{"surname":"CLARKE","ballotGivenName":"Donald","partyBallotName":"The Greens (WA)"},{"surname":"CAHILL","ballotGivenName":"Jordan","partyBallotName":"The Greens (WA)"},{"surname":"WALLACE","ballotGivenName":"Alex","partyBallotName":"The Greens (WA)"}]},{"column":"B","groupName":"Australian Christians","candidates":[{"surname":"CRICHTON","ballotGivenName":"Mike","partyBallotName":"Australian Christians"},{"surname":"GROENEWALD","ballotGivenName":"Maryka","partyBallotName":"Australian Christians"}]},{"column":"C","groupName":"United Australia Party","candidates":[{"surname":"McDONALD","ballotGivenName":"James","partyBallotName":"United Australia Party"},{"surname":"FORSTER","ballotGivenName":"Rob","partyBallotName":"United Australia Party"}]},{"column":"D","groupName":"Australian Labor Party","candidates":[{"surname":"LINES","ballotGivenName":"Sue","partyBallotName":"Australian Labor Party"},{"surname":"STERLE","ballotGivenName":"Glenn","partyBallotName":"Australian Labor Party"},{"surname":"PAYMAN","ballotGivenName":"Fatima","partyBallotName":"Australian Labor Party"},{"surname":"HELPS","ballotGivenName":"Vicki","partyBallotName":"Australian Labor Party"}]},{"column":"E","groupName":"Sustainable Australia Party - Stop Overdevelopment / Corruption","candidates":[{"surname":"OBORN","ballotGivenName":"Karen","partyBallotName":"Sustainable Australia Party - Stop Overdevelopment / Corruption"},{"surname":"OOSTRYCK","ballotGivenName":"Ryan","partyBallotName":"Sustainable Australia Party - Stop Overdevelopment / Corruption"}]},{"column":"F","groupName":"Australian Democrats","candidates":[{"surname":"MITCHELL","ballotGivenName":"Elana","partyBallotName":"Australian Democrats"},{"surname":"SIMSON","ballotGivenName":"Simon","partyBallotName":"Australian Democrats"}]},{"column":"G","groupName":"Pauline Hanson's One Nation","candidates":[{"surname":"FILING","ballotGivenName":"Paul Anthony","partyBallotName":"Pauline Hanson's One Nation"},{"surname":"MUNDY","ballotGivenName":"Sheila","partyBallotName":"Pauline Hanson's One Nation"}]},{"column":"H","groupName":"Socialist Alliance","candidates":[{"surname":"HARLEY","ballotGivenName":"Petrina","partyBallotName":"Socialist Alliance"},{"surname":"SALMON","ballotGivenName":"Alex","partyBallotName":"Socialist Alliance"}]},{"column":"I","groupName":"Legalise Cannabis Australia","candidates":[{"surname":"JOHNSON","ballotGivenName":"Nicola Julia","partyBallotName":"Legalise Cannabis Australia"},{"surname":"PEET","ballotGivenName":"Aaron","partyBallotName":"Legalise Cannabis Australia"}]},{"column":"J","groupName":"The Great Australian Party","candidates":[{"surname":"CULLETON","ballotGivenName":"Rodney Norman","partyBallotName":"The Great Australian Party"},{"surname":"VINCI","ballotGivenName":"Samantha Lee","partyBallotName":"The Great Australian Party"}]},{"column":"K","groupName":"","candidates":[{"surname":"GEORGATOS","ballotGivenName":"Gerry","partyBallotName":""},{"surname":"KRAKOUER","ballotGivenName":"Megan","partyBallotName":""}]},{"column":"L","groupName":"Liberal Democrats","candidates":[{"surname":"FANTINEL","ballotGivenName":"Kate","partyBallotName":"Liberal Democrats"},{"surname":"McLOUGHLIN","ballotGivenName":"Peter","partyBallotName":"Liberal Democrats"}]},{"column":"M","groupName":"Informed Medical Options Party","candidates":[{"surname":"KINSELLA","ballotGivenName":"Michelle","partyBallotName":"Informed Medical Options Party"},{"surname":"LOCKYER","ballotGivenName":"Leanne","partyBallotName":"Informed Medical Options Party"}]},{"column":"N","groupName":"Australian Values Party","candidates":[{"surname":"PIZZEY","ballotGivenName":"Rebecca","partyBallotName":"Australian Values Party"},{"surname":"FITZPATRICK","ballotGivenName":"Kathy","partyBallotName":"Australian Values Party"}]},{"column":"O","groupName":"Animal Justice Party","candidates":[{"surname":"DORN","ballotGivenName":"Amanda","partyBallotName":"Animal Justice Party"},{"surname":"McCASKER","ballotGivenName":"Elizabeth Gay","partyBallotName":"Animal Justice Party"}]},{"column":"P","groupName":"","candidates":[{"surname":"TINLEY","ballotGivenName":"Cam","partyBallotName":""},{"surname":"AYRE","ballotGivenName":"Tricia","partyBallotName":""}]},{"column":"Q","groupName":"Australian Federation Party","candidates":[{"surname":"WILYMAN","ballotGivenName":"Judy","partyBallotName":"Australian Federation Party"},{"surname":"BARRETT","ballotGivenName":"Leanne","partyBallotName":"Australian Federation Party"}]},{"column":"R","groupName":"Liberal","candidates":[{"surname":"CASH","ballotGivenName":"Michaelia","partyBallotName":"Liberal"},{"surname":"SMITH","ballotGivenName":"Dean","partyBallotName":"Liberal"},{"surname":"SMALL","ballotGivenName":"Ben","partyBallotName":"Liberal"},{"surname":"SUFI","ballotGivenName":"Sherry","partyBallotName":"Liberal"}]},{"column":"S","groupName":"FUSION: Science, Pirate, Secular, Climate Emergency","candidates":[{"surname":"VILJOEN","ballotGivenName":"Tim","partyBallotName":"FUSION: Science, Pirate, Secular, Climate Emergency"},{"surname":"WOODINGS","ballotGivenName":"Adam","partyBallotName":"FUSION: Science, Pirate, Secular, Climate Emergency"}]},{"column":"T","groupName":"WESTERN AUSTRALIA PARTY","candidates":[{"surname":"McDOWALL","ballotGivenName":"Matthew","partyBallotName":"WESTERN AUSTRALIA PARTY"},{"surname":"MATHESON","ballotGivenName":"Julie","partyBallotName":"WESTERN AUSTRALIA PARTY"}]},{"column":"U","groupName":"Citizens Party","candidates":[{"surname":"BRAILEY","ballotGivenName":"Denise","partyBallotName":"Citizens Party"},{"surname":"ROBINSON","ballotGivenName":"Jean","partyBallotName":"Citizens Party"}]},{"column":"V","groupName":"Federal ICAC Now","candidates":[{"surname":"COUNT","ballotGivenName":"Matthew","partyBallotName":"Federal ICAC Now"},{"surname":"WATKINS","ballotGivenName":"Dianne","partyBallotName":"Federal ICAC Now"}]},{"column":"UG","groupName":"","candidates":[{"surname":"MURPHY","ballotGivenName":"Ziggi","partyBallotName":"Independent"},{"surname":"BUCKLE","ballotGivenName":"Ashley","partyBallotName":"Independent"},{"surname":"McDONALD","ballotGivenName":"Peter Robert","partyBallotName":"Independent"},{"surname":"VAGH","ballotGivenName":"Yunous","partyBallotName":"Independent"},{"surname":"BURDETT","ballotGivenName":"Bob","partyBallotName":"Seniors United Party of Australia"},{"surname":"PEGRUM","ballotGivenName":"Valentine","partyBallotName":"Independent"}]}]}
+{
+  "ACT": [
+    {
+      "column": "A",
+      "groupName": "Australian Labor Party",
+      "candidates": [
+        {
+          "surname": "GALLAGHER",
+          "ballotGivenName": "Katy",
+          "partyBallotName": "Australian Labor Party"
+        },
+        {
+          "surname": "NORTHAM",
+          "ballotGivenName": "Maddy",
+          "partyBallotName": "Australian Labor Party"
+        }
+      ]
+    },
+    {
+      "column": "B",
+      "groupName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+      "candidates": [
+        {
+          "surname": "ANGEL",
+          "ballotGivenName": "Joy",
+          "partyBallotName": "Sustainable Australia Party - Stop Overdevelopment / Corruption"
+        },
+        {
+          "surname": "HAYDON",
+          "ballotGivenName": "John",
+          "partyBallotName": "Sustainable Australia Party - Stop Overdevelopment / Corruption"
+        }
+      ]
+    },
+    {
+      "column": "C",
+      "groupName": "United Australia Party",
+      "candidates": [
+        {
+          "surname": "SAVOULIDIS",
+          "ballotGivenName": "James",
+          "partyBallotName": "United Australia Party"
+        },
+        {
+          "surname": "PAGE",
+          "ballotGivenName": "Tracey",
+          "partyBallotName": "United Australia Party"
+        }
+      ]
+    },
+    {
+      "column": "D",
+      "groupName": "Liberal",
+      "candidates": [
+        {
+          "surname": "SESELJA",
+          "ballotGivenName": "Zed",
+          "partyBallotName": "Liberal"
+        },
+        {
+          "surname": "LAM",
+          "ballotGivenName": "Kacey",
+          "partyBallotName": "Liberal"
+        }
+      ]
+    },
+    {
+      "column": "E",
+      "groupName": "David Pocock",
+      "candidates": [
+        {
+          "surname": "POCOCK",
+          "ballotGivenName": "David",
+          "partyBallotName": "David Pocock"
+        },
+        {
+          "surname": "DOUBE",
+          "ballotGivenName": "Clare",
+          "partyBallotName": "David Pocock"
+        }
+      ]
+    },
+    {
+      "column": "F",
+      "groupName": "Kim for Canberra",
+      "candidates": [
+        {
+          "surname": "RUBENSTEIN",
+          "ballotGivenName": "Kim",
+          "partyBallotName": "Kim for Canberra"
+        },
+        {
+          "surname": "HUYNH",
+          "ballotGivenName": "Kim",
+          "partyBallotName": "Kim for Canberra"
+        }
+      ]
+    },
+    {
+      "column": "G",
+      "groupName": "Australian Progressives",
+      "candidates": [
+        {
+          "surname": "FAULKNER",
+          "ballotGivenName": "Therese",
+          "partyBallotName": "Australian Progressives"
+        },
+        {
+          "surname": "LIN",
+          "ballotGivenName": "Stephen",
+          "partyBallotName": "Australian Progressives"
+        }
+      ]
+    },
+    {
+      "column": "H",
+      "groupName": "The Greens",
+      "candidates": [
+        {
+          "surname": "GORENG GORENG",
+          "ballotGivenName": "Tjanara",
+          "partyBallotName": "The Greens"
+        },
+        {
+          "surname": "CRUZ",
+          "ballotGivenName": "James",
+          "partyBallotName": "The Greens"
+        }
+      ]
+    },
+    {
+      "column": "I",
+      "groupName": "Legalise Cannabis Australia",
+      "candidates": [
+        {
+          "surname": "KATELARIS",
+          "ballotGivenName": "Andrew",
+          "partyBallotName": "Legalise Cannabis Australia"
+        },
+        {
+          "surname": "STANVIC",
+          "ballotGivenName": "Michelle",
+          "partyBallotName": "Legalise Cannabis Australia"
+        }
+      ]
+    },
+    {
+      "column": "J",
+      "groupName": "Animal Justice Party",
+      "candidates": [
+        {
+          "surname": "del VALLE",
+          "ballotGivenName": "Yana",
+          "partyBallotName": "Animal Justice Party"
+        },
+        {
+          "surname": "FAHIZ",
+          "ballotGivenName": "Jannah",
+          "partyBallotName": "Animal Justice Party"
+        }
+      ]
+    },
+    {
+      "column": "K",
+      "groupName": "Informed Medical Options Party",
+      "candidates": [
+        {
+          "surname": "SIMMS",
+          "ballotGivenName": "Michael",
+          "partyBallotName": "Informed Medical Options Party"
+        },
+        {
+          "surname": "LIDDICOAT",
+          "ballotGivenName": "Mary-Jane",
+          "partyBallotName": "Informed Medical Options Party"
+        }
+      ]
+    },
+    {
+      "column": "UG",
+      "groupName": "",
+      "candidates": [
+        {
+          "surname": "LI",
+          "ballotGivenName": "Fuxin",
+          "partyBallotName": "Independent"
+        }
+      ]
+    }
+  ],
+  "NSW": [
+    {
+      "column": "A",
+      "groupName": "Animal Justice Party",
+      "candidates": [
+        {
+          "surname": "BROLLO",
+          "ballotGivenName": "Darren",
+          "partyBallotName": "Animal Justice Party"
+        },
+        {
+          "surname": "POWER",
+          "ballotGivenName": "Julie",
+          "partyBallotName": "Animal Justice Party"
+        }
+      ]
+    },
+    {
+      "column": "B",
+      "groupName": "TNL",
+      "candidates": [
+        {
+          "surname": "KEEN",
+          "ballotGivenName": "Steve",
+          "partyBallotName": "TNL"
+        },
+        {
+          "surname": "GREEN",
+          "ballotGivenName": "Melissa",
+          "partyBallotName": "TNL"
+        }
+      ]
+    },
+    {
+      "column": "C",
+      "groupName": "Citizens Party",
+      "candidates": [
+        {
+          "surname": "LIU",
+          "ballotGivenName": "Kingsley",
+          "partyBallotName": "Citizens Party"
+        },
+        {
+          "surname": "LAWLER",
+          "ballotGivenName": "Ann",
+          "partyBallotName": "Citizens Party"
+        }
+      ]
+    },
+    {
+      "column": "D",
+      "groupName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+      "candidates": [
+        {
+          "surname": "LAMB",
+          "ballotGivenName": "Georgia",
+          "partyBallotName": "Sustainable Australia Party - Stop Overdevelopment / Corruption"
+        },
+        {
+          "surname": "DE VIVE",
+          "ballotGivenName": "Suzanne",
+          "partyBallotName": "Sustainable Australia Party - Stop Overdevelopment / Corruption"
+        }
+      ]
+    },
+    {
+      "column": "E",
+      "groupName": "The Greens",
+      "candidates": [
+        {
+          "surname": "SHOEBRIDGE",
+          "ballotGivenName": "David",
+          "partyBallotName": "The Greens"
+        },
+        {
+          "surname": "COHN",
+          "ballotGivenName": "Amanda",
+          "partyBallotName": "The Greens"
+        },
+        {
+          "surname": "FLOOD",
+          "ballotGivenName": "Rochelle",
+          "partyBallotName": "The Greens"
+        },
+        {
+          "surname": "SCOTT",
+          "ballotGivenName": "Jane",
+          "partyBallotName": "The Greens"
+        },
+        {
+          "surname": "ARYA",
+          "ballotGivenName": "Hawa",
+          "partyBallotName": "The Greens"
+        },
+        {
+          "surname": "WHEELER",
+          "ballotGivenName": "Danielle",
+          "partyBallotName": "The Greens"
+        }
+      ]
+    },
+    {
+      "column": "F",
+      "groupName": "",
+      "candidates": [
+        {
+          "surname": "BODDY",
+          "ballotGivenName": "Max",
+          "partyBallotName": ""
+        },
+        {
+          "surname": "GRENFELL",
+          "ballotGivenName": "Oscar",
+          "partyBallotName": ""
+        }
+      ]
+    },
+    {
+      "column": "G",
+      "groupName": "Liberal & Nationals",
+      "candidates": [
+        {
+          "surname": "PAYNE",
+          "ballotGivenName": "Marise",
+          "partyBallotName": "Liberal"
+        },
+        {
+          "surname": "CADELL",
+          "ballotGivenName": "Ross",
+          "partyBallotName": "The Nationals"
+        },
+        {
+          "surname": "MOLAN",
+          "ballotGivenName": "Jim",
+          "partyBallotName": "Liberal"
+        },
+        {
+          "surname": "PENFOLD",
+          "ballotGivenName": "Alison Louise",
+          "partyBallotName": "The Nationals"
+        },
+        {
+          "surname": "JARVIS",
+          "ballotGivenName": "Mary-Lou",
+          "partyBallotName": "Liberal"
+        },
+        {
+          "surname": "McGAHEY",
+          "ballotGivenName": "Vicky",
+          "partyBallotName": "Liberal"
+        }
+      ]
+    },
+    {
+      "column": "H",
+      "groupName": "Reason Australia",
+      "candidates": [
+        {
+          "surname": "CARO",
+          "ballotGivenName": "Jane",
+          "partyBallotName": "Reason Australia"
+        },
+        {
+          "surname": "MAHER",
+          "ballotGivenName": "Hannah Kate",
+          "partyBallotName": "Reason Australia"
+        },
+        {
+          "surname": "RYALL",
+          "ballotGivenName": "Diana",
+          "partyBallotName": "Reason Australia"
+        }
+      ]
+    },
+    {
+      "column": "I",
+      "groupName": "Socialist Alliance",
+      "candidates": [
+        {
+          "surname": "SANCHEZ",
+          "ballotGivenName": "Paula",
+          "partyBallotName": "Socialist Alliance"
+        },
+        {
+          "surname": "LEKA",
+          "ballotGivenName": "Niko",
+          "partyBallotName": "Socialist Alliance"
+        },
+        {
+          "surname": "EVANS",
+          "ballotGivenName": "Rachel",
+          "partyBallotName": "Socialist Alliance"
+        }
+      ]
+    },
+    {
+      "column": "J",
+      "groupName": "Federal ICAC Now",
+      "candidates": [
+        {
+          "surname": "JONES",
+          "ballotGivenName": "Ross",
+          "partyBallotName": "Federal ICAC Now"
+        },
+        {
+          "surname": "ANDERSON",
+          "ballotGivenName": "Gabrielle",
+          "partyBallotName": "Federal ICAC Now"
+        }
+      ]
+    },
+    {
+      "column": "K",
+      "groupName": "Australian Democrats",
+      "candidates": [
+        {
+          "surname": "BATY",
+          "ballotGivenName": "Steven James",
+          "partyBallotName": "Australian Democrats"
+        },
+        {
+          "surname": "ROGERS",
+          "ballotGivenName": "Suzanne",
+          "partyBallotName": "Australian Democrats"
+        },
+        {
+          "surname": "RICHARDS",
+          "ballotGivenName": "Craig Edward",
+          "partyBallotName": "Australian Democrats"
+        }
+      ]
+    },
+    {
+      "column": "L",
+      "groupName": "Indigenous - Aboriginal Party of Australia",
+      "candidates": [
+        {
+          "surname": "WHYMAN",
+          "ballotGivenName": "Owen Douglas",
+          "partyBallotName": "Indigenous - Aboriginal Party of Australia"
+        },
+        {
+          "surname": "BROOKE",
+          "ballotGivenName": "Lawrence John",
+          "partyBallotName": "Indigenous - Aboriginal Party of Australia"
+        }
+      ]
+    },
+    {
+      "column": "M",
+      "groupName": "Shooters, Fishers and Farmers Party",
+      "candidates": [
+        {
+          "surname": "DJURIC",
+          "ballotGivenName": "Shane",
+          "partyBallotName": "Shooters, Fishers and Farmers Party"
+        },
+        {
+          "surname": "GREGORY",
+          "ballotGivenName": "Desiree J",
+          "partyBallotName": "Shooters, Fishers and Farmers Party"
+        },
+        {
+          "surname": "MILGATE",
+          "ballotGivenName": "Brian",
+          "partyBallotName": "Shooters, Fishers and Farmers Party"
+        },
+        {
+          "surname": "CROOKS",
+          "ballotGivenName": "Jeremy",
+          "partyBallotName": "Shooters, Fishers and Farmers Party"
+        }
+      ]
+    },
+    {
+      "column": "N",
+      "groupName": "Seniors United Party of Australia",
+      "candidates": [
+        {
+          "surname": "KOCHER",
+          "ballotGivenName": "Dessie",
+          "partyBallotName": "Seniors United Party of Australia"
+        },
+        {
+          "surname": "BENNIE",
+          "ballotGivenName": "Ray",
+          "partyBallotName": "Seniors United Party of Australia"
+        }
+      ]
+    },
+    {
+      "column": "O",
+      "groupName": "Informed Medical Options Party",
+      "candidates": [
+        {
+          "surname": "O'NEILL",
+          "ballotGivenName": "Michael",
+          "partyBallotName": "Informed Medical Options Party"
+        },
+        {
+          "surname": "BURNUM BURNUM",
+          "ballotGivenName": "Marelle",
+          "partyBallotName": "Informed Medical Options Party"
+        }
+      ]
+    },
+    {
+      "column": "P",
+      "groupName": "The Great Australian Party",
+      "candidates": [
+        {
+          "surname": "HOPKINS",
+          "ballotGivenName": "Matthew",
+          "partyBallotName": "The Great Australian Party"
+        },
+        {
+          "surname": "NOHRA",
+          "ballotGivenName": "George",
+          "partyBallotName": "The Great Australian Party"
+        }
+      ]
+    },
+    {
+      "column": "Q",
+      "groupName": "Legalise Cannabis Australia",
+      "candidates": [
+        {
+          "surname": "BALDERSTONE",
+          "ballotGivenName": "Michael",
+          "partyBallotName": "Legalise Cannabis Australia"
+        },
+        {
+          "surname": "HESTER",
+          "ballotGivenName": "Gail",
+          "partyBallotName": "Legalise Cannabis Australia"
+        }
+      ]
+    },
+    {
+      "column": "R",
+      "groupName": "FUSION: Science, Pirate, Secular, Climate Emergency",
+      "candidates": [
+        {
+          "surname": "LEONG",
+          "ballotGivenName": "Andrea",
+          "partyBallotName": "FUSION: Science, Pirate, Secular, Climate Emergency"
+        },
+        {
+          "surname": "BRYCE",
+          "ballotGivenName": "Ian R",
+          "partyBallotName": "FUSION: Science, Pirate, Secular, Climate Emergency"
+        }
+      ]
+    },
+    {
+      "column": "S",
+      "groupName": "Pauline Hanson's One Nation",
+      "candidates": [
+        {
+          "surname": "McCULLOCH",
+          "ballotGivenName": "Kate",
+          "partyBallotName": "Pauline Hanson's One Nation"
+        },
+        {
+          "surname": "GRIGG",
+          "ballotGivenName": "Colin",
+          "partyBallotName": "Pauline Hanson's One Nation"
+        },
+        {
+          "surname": "SMITH",
+          "ballotGivenName": "Roger",
+          "partyBallotName": "Pauline Hanson's One Nation"
+        }
+      ]
+    },
+    {
+      "column": "T",
+      "groupName": "Liberal Democrats",
+      "candidates": [
+        {
+          "surname": "RUDDICK",
+          "ballotGivenName": "John",
+          "partyBallotName": "Liberal Democrats"
+        },
+        {
+          "surname": "LARTER",
+          "ballotGivenName": "John",
+          "partyBallotName": "Liberal Democrats"
+        },
+        {
+          "surname": "CALDWELL",
+          "ballotGivenName": "James Arthur",
+          "partyBallotName": "Liberal Democrats"
+        },
+        {
+          "surname": "GUEST",
+          "ballotGivenName": "Mark Antony",
+          "partyBallotName": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "column": "U",
+      "groupName": "Australian Values Party",
+      "candidates": [
+        {
+          "surname": "CLANCY",
+          "ballotGivenName": "Selena",
+          "partyBallotName": "Australian Values Party"
+        },
+        {
+          "surname": "GILBERT",
+          "ballotGivenName": "Dave",
+          "partyBallotName": "Australian Values Party"
+        }
+      ]
+    },
+    {
+      "column": "V",
+      "groupName": "Labor",
+      "candidates": [
+        {
+          "surname": "O'NEILL",
+          "ballotGivenName": "Deborah",
+          "partyBallotName": "Labor"
+        },
+        {
+          "surname": "McALLISTER",
+          "ballotGivenName": "Jenny",
+          "partyBallotName": "Labor"
+        },
+        {
+          "surname": "MORRIS",
+          "ballotGivenName": "Shireen",
+          "partyBallotName": "Labor"
+        },
+        {
+          "surname": "MYERS",
+          "ballotGivenName": "Mich-Elle Elizabeth",
+          "partyBallotName": "Labor"
+        },
+        {
+          "surname": "ROSE",
+          "ballotGivenName": "Kylie Anne",
+          "partyBallotName": "Labor"
+        },
+        {
+          "surname": "WARREN-SMITH",
+          "ballotGivenName": "James",
+          "partyBallotName": "Labor"
+        }
+      ]
+    },
+    {
+      "column": "W",
+      "groupName": "United Australia Party",
+      "candidates": [
+        {
+          "surname": "MARTINO",
+          "ballotGivenName": "Domenic Vincent",
+          "partyBallotName": "United Australia Party"
+        },
+        {
+          "surname": "WRIGHTSON",
+          "ballotGivenName": "Suellen",
+          "partyBallotName": "United Australia Party"
+        },
+        {
+          "surname": "MOORE",
+          "ballotGivenName": "Wayne Leslie",
+          "partyBallotName": "United Australia Party"
+        },
+        {
+          "surname": "MARTIN",
+          "ballotGivenName": "Michelle",
+          "partyBallotName": "United Australia Party"
+        },
+        {
+          "surname": "YAP",
+          "ballotGivenName": "Johnny",
+          "partyBallotName": "United Australia Party"
+        },
+        {
+          "surname": "LOUGHREY",
+          "ballotGivenName": "Kevin Andrew",
+          "partyBallotName": "United Australia Party"
+        }
+      ]
+    },
+    {
+      "column": "UG",
+      "groupName": "",
+      "candidates": [
+        {
+          "surname": "LIM",
+          "ballotGivenName": "Danny",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "COLLINS",
+          "ballotGivenName": "Julie",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "GRZIC",
+          "ballotGivenName": "Warren",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "LU",
+          "ballotGivenName": "Guitang",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "LAING",
+          "ballotGivenName": "William",
+          "partyBallotName": "Independent"
+        }
+      ]
+    }
+  ],
+  "NT": [
+    {
+      "column": "A",
+      "groupName": "NT CLP",
+      "candidates": [
+        {
+          "surname": "PRICE",
+          "ballotGivenName": "Jacinta Nampijinpa",
+          "partyBallotName": "NT CLP"
+        },
+        {
+          "surname": "CIVITARESE",
+          "ballotGivenName": "Kris",
+          "partyBallotName": "NT CLP"
+        }
+      ]
+    },
+    {
+      "column": "B",
+      "groupName": "Liberal Democrats",
+      "candidates": [
+        {
+          "surname": "McMAHON",
+          "ballotGivenName": "Sam",
+          "partyBallotName": "Liberal Democrats"
+        },
+        {
+          "surname": "HANSEN",
+          "ballotGivenName": "Jed",
+          "partyBallotName": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "column": "C",
+      "groupName": "A.L.P.",
+      "candidates": [
+        {
+          "surname": "McCARTHY",
+          "ballotGivenName": "Malarndirri",
+          "partyBallotName": "A.L.P."
+        },
+        {
+          "surname": "GANLEY",
+          "ballotGivenName": "Kate",
+          "partyBallotName": "A.L.P."
+        }
+      ]
+    },
+    {
+      "column": "D",
+      "groupName": "Legalise Cannabis Australia",
+      "candidates": [
+        {
+          "surname": "LAWRENCE",
+          "ballotGivenName": "Lance",
+          "partyBallotName": "Legalise Cannabis Australia"
+        },
+        {
+          "surname": "HIBBERT",
+          "ballotGivenName": "Kelly-Anne",
+          "partyBallotName": "Legalise Cannabis Australia"
+        }
+      ]
+    },
+    {
+      "column": "E",
+      "groupName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+      "candidates": [
+        {
+          "surname": "WHYTE",
+          "ballotGivenName": "Lamaan",
+          "partyBallotName": "Sustainable Australia Party - Stop Overdevelopment / Corruption"
+        },
+        {
+          "surname": "BELCHER",
+          "ballotGivenName": "Richard",
+          "partyBallotName": "Sustainable Australia Party - Stop Overdevelopment / Corruption"
+        }
+      ]
+    },
+    {
+      "column": "F",
+      "groupName": "The Great Australian Party",
+      "candidates": [
+        {
+          "surname": "ARRIGO",
+          "ballotGivenName": "Steve",
+          "partyBallotName": "The Great Australian Party"
+        },
+        {
+          "surname": "MARCUS",
+          "ballotGivenName": "Angela",
+          "partyBallotName": "The Great Australian Party"
+        }
+      ]
+    },
+    {
+      "column": "G",
+      "groupName": "Citizens Party",
+      "candidates": [
+        {
+          "surname": "CAMPBELL",
+          "ballotGivenName": "Trudy",
+          "partyBallotName": "Citizens Party"
+        },
+        {
+          "surname": "FLYNN",
+          "ballotGivenName": "Peter",
+          "partyBallotName": "Citizens Party"
+        }
+      ]
+    },
+    {
+      "column": "H",
+      "groupName": "The Greens",
+      "candidates": [
+        {
+          "surname": "ANLEZARK",
+          "ballotGivenName": "Jane",
+          "partyBallotName": "The Greens"
+        },
+        {
+          "surname": "STOKES",
+          "ballotGivenName": "Dianne",
+          "partyBallotName": "The Greens"
+        }
+      ]
+    },
+    {
+      "column": "UG",
+      "groupName": "",
+      "candidates": [
+        {
+          "surname": "RAJWIN",
+          "ballotGivenName": "Raj",
+          "partyBallotName": "United Australia Party"
+        }
+      ]
+    }
+  ],
+  "QLD": [
+    {
+      "column": "A",
+      "groupName": "",
+      "candidates": [
+        {
+          "surname": "HARRIS",
+          "ballotGivenName": "Len",
+          "partyBallotName": ""
+        },
+        {
+          "surname": "YUILLE",
+          "ballotGivenName": "Debra",
+          "partyBallotName": ""
+        }
+      ]
+    },
+    {
+      "column": "B",
+      "groupName": "Socialist Alliance",
+      "candidates": [
+        {
+          "surname": "LEES",
+          "ballotGivenName": "Renee",
+          "partyBallotName": "Socialist Alliance"
+        },
+        {
+          "surname": "EMANUEL",
+          "ballotGivenName": "Kamala",
+          "partyBallotName": "Socialist Alliance"
+        }
+      ]
+    },
+    {
+      "column": "C",
+      "groupName": "Legalise Cannabis Australia",
+      "candidates": [
+        {
+          "surname": "BRADLEY",
+          "ballotGivenName": "Bernard Anthony",
+          "partyBallotName": "Legalise Cannabis Australia"
+        },
+        {
+          "surname": "LUYKEN",
+          "ballotGivenName": "Suzette",
+          "partyBallotName": "Legalise Cannabis Australia"
+        }
+      ]
+    },
+    {
+      "column": "D",
+      "groupName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+      "candidates": [
+        {
+          "surname": "MARTIN",
+          "ballotGivenName": "Rhett",
+          "partyBallotName": "Sustainable Australia Party - Stop Overdevelopment / Corruption"
+        },
+        {
+          "surname": "FIRESTONE",
+          "ballotGivenName": "Timotheos",
+          "partyBallotName": "Sustainable Australia Party - Stop Overdevelopment / Corruption"
+        }
+      ]
+    },
+    {
+      "column": "E",
+      "groupName": "Reason Australia",
+      "candidates": [
+        {
+          "surname": "WILLIAMS",
+          "ballotGivenName": "Ron",
+          "partyBallotName": "Reason Australia"
+        },
+        {
+          "surname": "JORDAN",
+          "ballotGivenName": "Frank",
+          "partyBallotName": "Reason Australia"
+        }
+      ]
+    },
+    {
+      "column": "F",
+      "groupName": "TNL",
+      "candidates": [
+        {
+          "surname": "BRENNAN",
+          "ballotGivenName": "Bess",
+          "partyBallotName": "TNL"
+        },
+        {
+          "surname": "KENNISH",
+          "ballotGivenName": "Hannah",
+          "partyBallotName": "TNL"
+        },
+        {
+          "surname": "HOPLEY",
+          "ballotGivenName": "Steven",
+          "partyBallotName": "TNL"
+        },
+        {
+          "surname": "MOMSEN",
+          "ballotGivenName": "Jonathon",
+          "partyBallotName": "TNL"
+        },
+        {
+          "surname": "INGRAM",
+          "ballotGivenName": "Lloyd",
+          "partyBallotName": "TNL"
+        },
+        {
+          "surname": "CREIGHTON",
+          "ballotGivenName": "Jack",
+          "partyBallotName": "TNL"
+        }
+      ]
+    },
+    {
+      "column": "G",
+      "groupName": "Federal ICAC Now",
+      "candidates": [
+        {
+          "surname": "PAYNE",
+          "ballotGivenName": "Kerin",
+          "partyBallotName": "Federal ICAC Now"
+        },
+        {
+          "surname": "CARROLL",
+          "ballotGivenName": "Ken",
+          "partyBallotName": "Federal ICAC Now"
+        }
+      ]
+    },
+    {
+      "column": "H",
+      "groupName": "",
+      "candidates": [
+        {
+          "surname": "DICKSON",
+          "ballotGivenName": "Steve",
+          "partyBallotName": ""
+        },
+        {
+          "surname": "LLOYD",
+          "ballotGivenName": "Rebecca",
+          "partyBallotName": ""
+        }
+      ]
+    },
+    {
+      "column": "I",
+      "groupName": "",
+      "candidates": [
+        {
+          "surname": "HEAD",
+          "ballotGivenName": "Mike",
+          "partyBallotName": ""
+        },
+        {
+          "surname": "DAVIS",
+          "ballotGivenName": "John",
+          "partyBallotName": ""
+        }
+      ]
+    },
+    {
+      "column": "J",
+      "groupName": "Queensland Greens",
+      "candidates": [
+        {
+          "surname": "ALLMAN-PAYNE",
+          "ballotGivenName": "Penny",
+          "partyBallotName": "Queensland Greens"
+        },
+        {
+          "surname": "SRI",
+          "ballotGivenName": "Anna",
+          "partyBallotName": "Queensland Greens"
+        },
+        {
+          "surname": "PENNINGS",
+          "ballotGivenName": "Ben",
+          "partyBallotName": "Queensland Greens"
+        },
+        {
+          "surname": "SIDHU",
+          "ballotGivenName": "Navdeep Singh",
+          "partyBallotName": "Queensland Greens"
+        },
+        {
+          "surname": "NELLIGAN",
+          "ballotGivenName": "Alyce",
+          "partyBallotName": "Queensland Greens"
+        },
+        {
+          "surname": "HALEY",
+          "ballotGivenName": "Rebecca",
+          "partyBallotName": "Queensland Greens"
+        }
+      ]
+    },
+    {
+      "column": "K",
+      "groupName": "Indigenous - Aboriginal Party of Australia",
+      "candidates": [
+        {
+          "surname": "HENAWAY",
+          "ballotGivenName": "Lionel",
+          "partyBallotName": "Indigenous - Aboriginal Party of Australia"
+        },
+        {
+          "surname": "CARR",
+          "ballotGivenName": "Jenny-Lee",
+          "partyBallotName": "Indigenous - Aboriginal Party of Australia"
+        }
+      ]
+    },
+    {
+      "column": "L",
+      "groupName": "Citizens Party",
+      "candidates": [
+        {
+          "surname": "PUKALLUS",
+          "ballotGivenName": "Jan",
+          "partyBallotName": "Citizens Party"
+        },
+        {
+          "surname": "DOEL",
+          "ballotGivenName": "Rod",
+          "partyBallotName": "Citizens Party"
+        }
+      ]
+    },
+    {
+      "column": "M",
+      "groupName": "The Great Australian Party",
+      "candidates": [
+        {
+          "surname": "MILES",
+          "ballotGivenName": "Jason",
+          "partyBallotName": "The Great Australian Party"
+        },
+        {
+          "surname": "COTTAM",
+          "ballotGivenName": "Elise",
+          "partyBallotName": "The Great Australian Party"
+        }
+      ]
+    },
+    {
+      "column": "N",
+      "groupName": "Australian Values Party",
+      "candidates": [
+        {
+          "surname": "RUSSELL",
+          "ballotGivenName": "Heston",
+          "partyBallotName": "Australian Values Party"
+        },
+        {
+          "surname": "HANSEN",
+          "ballotGivenName": "Jay",
+          "partyBallotName": "Australian Values Party"
+        }
+      ]
+    },
+    {
+      "column": "O",
+      "groupName": "Australian Federation Party",
+      "candidates": [
+        {
+          "surname": "TILYARD",
+          "ballotGivenName": "Isabel",
+          "partyBallotName": "Australian Federation Party"
+        },
+        {
+          "surname": "BENNETT",
+          "ballotGivenName": "Jackie",
+          "partyBallotName": "Australian Federation Party"
+        },
+        {
+          "surname": "SMYTH",
+          "ballotGivenName": "Michael Francis",
+          "partyBallotName": "Australian Federation Party"
+        }
+      ]
+    },
+    {
+      "column": "P",
+      "groupName": "Animal Justice Party",
+      "candidates": [
+        {
+          "surname": "SEVERNS",
+          "ballotGivenName": "Mackenzie",
+          "partyBallotName": "Animal Justice Party"
+        },
+        {
+          "surname": "WEBER",
+          "ballotGivenName": "Sue",
+          "partyBallotName": "Animal Justice Party"
+        }
+      ]
+    },
+    {
+      "column": "Q",
+      "groupName": "Australian Democrats",
+      "candidates": [
+        {
+          "surname": "ARBUCKLE",
+          "ballotGivenName": "Luke",
+          "partyBallotName": "Australian Democrats"
+        },
+        {
+          "surname": "SIMPSON",
+          "ballotGivenName": "Chris",
+          "partyBallotName": "Australian Democrats"
+        }
+      ]
+    },
+    {
+      "column": "R",
+      "groupName": "United Australia Party",
+      "candidates": [
+        {
+          "surname": "PALMER",
+          "ballotGivenName": "Clive Frederick",
+          "partyBallotName": "United Australia Party"
+        },
+        {
+          "surname": "BREWSTER",
+          "ballotGivenName": "Martin",
+          "partyBallotName": "United Australia Party"
+        },
+        {
+          "surname": "ADIDI",
+          "ballotGivenName": "Desmond",
+          "partyBallotName": "United Australia Party"
+        },
+        {
+          "surname": "McCABE",
+          "ballotGivenName": "Jack",
+          "partyBallotName": "United Australia Party"
+        }
+      ]
+    },
+    {
+      "column": "S",
+      "groupName": "Liberal National Party of Queensland",
+      "candidates": [
+        {
+          "surname": "McGRATH",
+          "ballotGivenName": "James",
+          "partyBallotName": "Liberal National Party of Queensland"
+        },
+        {
+          "surname": "CANAVAN",
+          "ballotGivenName": "Matt",
+          "partyBallotName": "Liberal National Party of Queensland"
+        },
+        {
+          "surname": "STOKER",
+          "ballotGivenName": "Amanda",
+          "partyBallotName": "Liberal National Party of Queensland"
+        },
+        {
+          "surname": "TOBIN",
+          "ballotGivenName": "Nicole",
+          "partyBallotName": "Liberal National Party of Queensland"
+        },
+        {
+          "surname": "CRIPPS",
+          "ballotGivenName": "Andrew",
+          "partyBallotName": "Liberal National Party of Queensland"
+        },
+        {
+          "surname": "WARD",
+          "ballotGivenName": "Fiona",
+          "partyBallotName": "Liberal National Party of Queensland"
+        }
+      ]
+    },
+    {
+      "column": "T",
+      "groupName": "Informed Medical Options Party",
+      "candidates": [
+        {
+          "surname": "LAHN",
+          "ballotGivenName": "Allona",
+          "partyBallotName": "Informed Medical Options Party"
+        },
+        {
+          "surname": "MELHOP",
+          "ballotGivenName": "Jasmine",
+          "partyBallotName": "Informed Medical Options Party"
+        },
+        {
+          "surname": "LAMBETH",
+          "ballotGivenName": "Peter",
+          "partyBallotName": "Informed Medical Options Party"
+        }
+      ]
+    },
+    {
+      "column": "U",
+      "groupName": "FUSION: Science, Pirate, Secular, Climate Emergency",
+      "candidates": [
+        {
+          "surname": "SELIC",
+          "ballotGivenName": "Brandon",
+          "partyBallotName": "FUSION: Science, Pirate, Secular, Climate Emergency"
+        },
+        {
+          "surname": "WHATLING",
+          "ballotGivenName": "Roger",
+          "partyBallotName": "FUSION: Science, Pirate, Secular, Climate Emergency"
+        }
+      ]
+    },
+    {
+      "column": "V",
+      "groupName": "Drew Pavlou Democratic Alliance",
+      "candidates": [
+        {
+          "surname": "PAVLOU",
+          "ballotGivenName": "Drew",
+          "partyBallotName": "Drew Pavlou Democratic Alliance"
+        },
+        {
+          "surname": "LEITCH",
+          "ballotGivenName": "Simon",
+          "partyBallotName": "Drew Pavlou Democratic Alliance"
+        }
+      ]
+    },
+    {
+      "column": "W",
+      "groupName": "Liberal Democrats",
+      "candidates": [
+        {
+          "surname": "NEWMAN",
+          "ballotGivenName": "Campbell",
+          "partyBallotName": "Liberal Democrats"
+        },
+        {
+          "surname": "GRAINGER",
+          "ballotGivenName": "Tegan",
+          "partyBallotName": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "column": "X",
+      "groupName": "Pauline Hanson's One Nation",
+      "candidates": [
+        {
+          "surname": "HANSON",
+          "ballotGivenName": "Pauline",
+          "partyBallotName": "Pauline Hanson's One Nation"
+        },
+        {
+          "surname": "GURUSWAMY",
+          "ballotGivenName": "Raj",
+          "partyBallotName": "Pauline Hanson's One Nation"
+        },
+        {
+          "surname": "CHRISTENSEN",
+          "ballotGivenName": "George",
+          "partyBallotName": "Pauline Hanson's One Nation"
+        }
+      ]
+    },
+    {
+      "column": "Y",
+      "groupName": "Australian Labor Party",
+      "candidates": [
+        {
+          "surname": "WATT",
+          "ballotGivenName": "Murray",
+          "partyBallotName": "Australian Labor Party"
+        },
+        {
+          "surname": "CHISHOLM",
+          "ballotGivenName": "Anthony",
+          "partyBallotName": "Australian Labor Party"
+        },
+        {
+          "surname": "ANDREW",
+          "ballotGivenName": "Edwina",
+          "partyBallotName": "Australian Labor Party"
+        },
+        {
+          "surname": "WARRY",
+          "ballotGivenName": "Christina",
+          "partyBallotName": "Australian Labor Party"
+        },
+        {
+          "surname": "HENDERSON",
+          "ballotGivenName": "Jen",
+          "partyBallotName": "Australian Labor Party"
+        },
+        {
+          "surname": "PASCOE",
+          "ballotGivenName": "Richard",
+          "partyBallotName": "Australian Labor Party"
+        }
+      ]
+    },
+    {
+      "column": "UG",
+      "groupName": "",
+      "candidates": [
+        {
+          "surname": "LYON",
+          "ballotGivenName": "Robert",
+          "partyBallotName": "Katter's Australian Party (KAP)"
+        },
+        {
+          "surname": "SCHEFE",
+          "ballotGivenName": "David John",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "TEMPLE",
+          "ballotGivenName": "Lindsay",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "HAMILTON",
+          "ballotGivenName": "Chey Geoffrey",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "SMITH",
+          "ballotGivenName": "Lorraine",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "QUINLIVAN",
+          "ballotGivenName": "Laurence",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "KOCHARDY",
+          "ballotGivenName": "Karakan Karoly",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "ROGERS",
+          "ballotGivenName": "Peter",
+          "partyBallotName": "Independent"
+        }
+      ]
+    }
+  ],
+  "SA": [
+    {
+      "column": "A",
+      "groupName": "Liberal Democrats",
+      "candidates": [
+        {
+          "surname": "MARKOS",
+          "ballotGivenName": "Ian",
+          "partyBallotName": "Liberal Democrats"
+        },
+        {
+          "surname": "SMITH",
+          "ballotGivenName": "Josh",
+          "partyBallotName": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "column": "B",
+      "groupName": "Animal Justice Party",
+      "candidates": [
+        {
+          "surname": "PFEIFFER",
+          "ballotGivenName": "Louise",
+          "partyBallotName": "Animal Justice Party"
+        },
+        {
+          "surname": "PASTRO",
+          "ballotGivenName": "Julie",
+          "partyBallotName": "Animal Justice Party"
+        }
+      ]
+    },
+    {
+      "column": "C",
+      "groupName": "Liberal",
+      "candidates": [
+        {
+          "surname": "BIRMINGHAM",
+          "ballotGivenName": "Simon",
+          "partyBallotName": "Liberal"
+        },
+        {
+          "surname": "McLACHLAN",
+          "ballotGivenName": "Andrew",
+          "partyBallotName": "Liberal"
+        },
+        {
+          "surname": "LIDDLE",
+          "ballotGivenName": "Kerrynne",
+          "partyBallotName": "Liberal"
+        },
+        {
+          "surname": "STOCK",
+          "ballotGivenName": "Tania",
+          "partyBallotName": "Liberal"
+        }
+      ]
+    },
+    {
+      "column": "D",
+      "groupName": "Australian Labor Party",
+      "candidates": [
+        {
+          "surname": "WONG",
+          "ballotGivenName": "Penny",
+          "partyBallotName": "Australian Labor Party"
+        },
+        {
+          "surname": "FARRELL",
+          "ballotGivenName": "Don",
+          "partyBallotName": "Australian Labor Party"
+        },
+        {
+          "surname": "GILL",
+          "ballotGivenName": "Trimann",
+          "partyBallotName": "Australian Labor Party"
+        },
+        {
+          "surname": "SUTTON",
+          "ballotGivenName": "Joanne",
+          "partyBallotName": "Australian Labor Party"
+        },
+        {
+          "surname": "OWENS",
+          "ballotGivenName": "Belinda",
+          "partyBallotName": "Australian Labor Party"
+        }
+      ]
+    },
+    {
+      "column": "E",
+      "groupName": "",
+      "candidates": [
+        {
+          "surname": "DAY",
+          "ballotGivenName": "Bob",
+          "partyBallotName": ""
+        },
+        {
+          "surname": "AMADIO",
+          "ballotGivenName": "Pat",
+          "partyBallotName": ""
+        }
+      ]
+    },
+    {
+      "column": "F",
+      "groupName": "The Great Australian Party",
+      "candidates": [
+        {
+          "surname": "EASON",
+          "ballotGivenName": "Jo-Anne",
+          "partyBallotName": "The Great Australian Party"
+        },
+        {
+          "surname": "BENNETT",
+          "ballotGivenName": "Trevor",
+          "partyBallotName": "The Great Australian Party"
+        }
+      ]
+    },
+    {
+      "column": "G",
+      "groupName": "National Party",
+      "candidates": [
+        {
+          "surname": "BLANDFORD",
+          "ballotGivenName": "Lisa",
+          "partyBallotName": "National Party"
+        },
+        {
+          "surname": "BUIJS",
+          "ballotGivenName": "Damien",
+          "partyBallotName": "National Party"
+        }
+      ]
+    },
+    {
+      "column": "H",
+      "groupName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+      "candidates": [
+        {
+          "surname": "MICHIE",
+          "ballotGivenName": "Elise",
+          "partyBallotName": "Sustainable Australia Party - Stop Overdevelopment / Corruption"
+        },
+        {
+          "surname": "DUXBURY",
+          "ballotGivenName": "Jack",
+          "partyBallotName": "Sustainable Australia Party - Stop Overdevelopment / Corruption"
+        }
+      ]
+    },
+    {
+      "column": "I",
+      "groupName": "The Local Party",
+      "candidates": [
+        {
+          "surname": "FINNEY",
+          "ballotGivenName": "Julie-Ann",
+          "partyBallotName": "The Local Party"
+        },
+        {
+          "surname": "PARNELL",
+          "ballotGivenName": "Rodney Kenneth",
+          "partyBallotName": "The Local Party"
+        }
+      ]
+    },
+    {
+      "column": "J",
+      "groupName": "Australian Federation Party",
+      "candidates": [
+        {
+          "surname": "BYRNE",
+          "ballotGivenName": "Cathy",
+          "partyBallotName": "Australian Federation Party"
+        },
+        {
+          "surname": "DUFFIELD",
+          "ballotGivenName": "Nick",
+          "partyBallotName": "Australian Federation Party"
+        }
+      ]
+    },
+    {
+      "column": "K",
+      "groupName": "Australian Democrats",
+      "candidates": [
+        {
+          "surname": "YAZBEK",
+          "ballotGivenName": "Roger",
+          "partyBallotName": "Australian Democrats"
+        },
+        {
+          "surname": "KANCK",
+          "ballotGivenName": "Sandra",
+          "partyBallotName": "Australian Democrats"
+        }
+      ]
+    },
+    {
+      "column": "L",
+      "groupName": "Drew Pavlou Democratic Alliance",
+      "candidates": [
+        {
+          "surname": "YARMUHAMMAD",
+          "ballotGivenName": "Adila",
+          "partyBallotName": "Drew Pavlou Democratic Alliance"
+        },
+        {
+          "surname": "YARMUHAMMAD",
+          "ballotGivenName": "Amina",
+          "partyBallotName": "Drew Pavlou Democratic Alliance"
+        }
+      ]
+    },
+    {
+      "column": "M",
+      "groupName": "",
+      "candidates": [
+        {
+          "surname": "KAUR",
+          "ballotGivenName": "Harmeet",
+          "partyBallotName": ""
+        },
+        {
+          "surname": "KUMAR",
+          "ballotGivenName": "Rajesh",
+          "partyBallotName": ""
+        }
+      ]
+    },
+    {
+      "column": "N",
+      "groupName": "FUSION: Science, Pirate, Secular, Climate Emergency",
+      "candidates": [
+        {
+          "surname": "WOLFENDALE",
+          "ballotGivenName": "Drew",
+          "partyBallotName": "FUSION: Science, Pirate, Secular, Climate Emergency"
+        },
+        {
+          "surname": "KENNEDY",
+          "ballotGivenName": "David",
+          "partyBallotName": "FUSION: Science, Pirate, Secular, Climate Emergency"
+        }
+      ]
+    },
+    {
+      "column": "O",
+      "groupName": "",
+      "candidates": [
+        {
+          "surname": "XENOPHON",
+          "ballotGivenName": "Nick",
+          "partyBallotName": ""
+        },
+        {
+          "surname": "GRIFF",
+          "ballotGivenName": "Stirling",
+          "partyBallotName": ""
+        }
+      ]
+    },
+    {
+      "column": "P",
+      "groupName": "The Greens",
+      "candidates": [
+        {
+          "surname": "POCOCK",
+          "ballotGivenName": "Barbara",
+          "partyBallotName": "The Greens"
+        },
+        {
+          "surname": "SUMNER",
+          "ballotGivenName": "Major Moogy",
+          "partyBallotName": "The Greens"
+        },
+        {
+          "surname": "SELWOOD",
+          "ballotGivenName": "Melanie",
+          "partyBallotName": "The Greens"
+        }
+      ]
+    },
+    {
+      "column": "Q",
+      "groupName": "Informed Medical Options Party",
+      "candidates": [
+        {
+          "surname": "CRUISE",
+          "ballotGivenName": "Raina",
+          "partyBallotName": "Informed Medical Options Party"
+        },
+        {
+          "surname": "HARLEY",
+          "ballotGivenName": "Heather",
+          "partyBallotName": "Informed Medical Options Party"
+        }
+      ]
+    },
+    {
+      "column": "R",
+      "groupName": "Rex Patrick Team",
+      "candidates": [
+        {
+          "surname": "PATRICK",
+          "ballotGivenName": "Rex",
+          "partyBallotName": "Rex Patrick Team"
+        },
+        {
+          "surname": "McMAHON",
+          "ballotGivenName": "Leonie",
+          "partyBallotName": "Rex Patrick Team"
+        }
+      ]
+    },
+    {
+      "column": "S",
+      "groupName": "Pauline Hanson's One Nation",
+      "candidates": [
+        {
+          "surname": "GAME",
+          "ballotGivenName": "Jennifer",
+          "partyBallotName": "Pauline Hanson's One Nation"
+        },
+        {
+          "surname": "WATCHMAN",
+          "ballotGivenName": "Alan",
+          "partyBallotName": "Pauline Hanson's One Nation"
+        }
+      ]
+    },
+    {
+      "column": "T",
+      "groupName": "Legalise Cannabis Australia",
+      "candidates": [
+        {
+          "surname": "GREEN",
+          "ballotGivenName": "Tyler Bradley",
+          "partyBallotName": "Legalise Cannabis Australia"
+        },
+        {
+          "surname": "ADAMS",
+          "ballotGivenName": "Angela",
+          "partyBallotName": "Legalise Cannabis Australia"
+        }
+      ]
+    },
+    {
+      "column": "U",
+      "groupName": "United Australia Party",
+      "candidates": [
+        {
+          "surname": "ARBON",
+          "ballotGivenName": "Michael",
+          "partyBallotName": "United Australia Party"
+        },
+        {
+          "surname": "SCHILD",
+          "ballotGivenName": "Caelum",
+          "partyBallotName": "United Australia Party"
+        }
+      ]
+    },
+    {
+      "column": "V",
+      "groupName": "Citizens Party",
+      "candidates": [
+        {
+          "surname": "FRANCIS",
+          "ballotGivenName": "Russell",
+          "partyBallotName": "Citizens Party"
+        },
+        {
+          "surname": "CURREY",
+          "ballotGivenName": "Rodney",
+          "partyBallotName": "Citizens Party"
+        }
+      ]
+    },
+    {
+      "column": "UG",
+      "groupName": "",
+      "candidates": [
+        {
+          "surname": "HOPPER",
+          "ballotGivenName": "Michael",
+          "partyBallotName": "Independent"
+        }
+      ]
+    }
+  ],
+  "TAS": [
+    {
+      "column": "A",
+      "groupName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+      "candidates": [
+        {
+          "surname": "DUDLEY",
+          "ballotGivenName": "Todd",
+          "partyBallotName": "Sustainable Australia Party - Stop Overdevelopment / Corruption"
+        },
+        {
+          "surname": "LOCKWOOD",
+          "ballotGivenName": "Daria",
+          "partyBallotName": "Sustainable Australia Party - Stop Overdevelopment / Corruption"
+        }
+      ]
+    },
+    {
+      "column": "B",
+      "groupName": "Pauline Hanson's One Nation",
+      "candidates": [
+        {
+          "surname": "MAV",
+          "ballotGivenName": "Steve",
+          "partyBallotName": "Pauline Hanson's One Nation"
+        },
+        {
+          "surname": "BUTTON",
+          "ballotGivenName": "Norelle",
+          "partyBallotName": "Pauline Hanson's One Nation"
+        }
+      ]
+    },
+    {
+      "column": "C",
+      "groupName": "Animal Justice Party",
+      "candidates": [
+        {
+          "surname": "DAVIS",
+          "ballotGivenName": "Ivan",
+          "partyBallotName": "Animal Justice Party"
+        },
+        {
+          "surname": "THOMAS-WURTH",
+          "ballotGivenName": "Virginia",
+          "partyBallotName": "Animal Justice Party"
+        }
+      ]
+    },
+    {
+      "column": "D",
+      "groupName": "Australian Labor Party",
+      "candidates": [
+        {
+          "surname": "URQUHART",
+          "ballotGivenName": "Anne",
+          "partyBallotName": "Australian Labor Party"
+        },
+        {
+          "surname": "POLLEY",
+          "ballotGivenName": "Helen",
+          "partyBallotName": "Australian Labor Party"
+        },
+        {
+          "surname": "RAINBIRD",
+          "ballotGivenName": "Kate",
+          "partyBallotName": "Australian Labor Party"
+        },
+        {
+          "surname": "HULME",
+          "ballotGivenName": "Daniel",
+          "partyBallotName": "Australian Labor Party"
+        },
+        {
+          "surname": "ROBERTS",
+          "ballotGivenName": "Wayne",
+          "partyBallotName": "Australian Labor Party"
+        },
+        {
+          "surname": "GOURLAY",
+          "ballotGivenName": "Chris",
+          "partyBallotName": "Australian Labor Party"
+        }
+      ]
+    },
+    {
+      "column": "E",
+      "groupName": "Legalise Cannabis Australia",
+      "candidates": [
+        {
+          "surname": "OWEN",
+          "ballotGivenName": "Matt",
+          "partyBallotName": "Legalise Cannabis Australia"
+        },
+        {
+          "surname": "FITZGIBBON",
+          "ballotGivenName": "Oliver",
+          "partyBallotName": "Legalise Cannabis Australia"
+        }
+      ]
+    },
+    {
+      "column": "F",
+      "groupName": "Shooters, Fishers and Farmers Party",
+      "candidates": [
+        {
+          "surname": "WILLIAMS",
+          "ballotGivenName": "Ray",
+          "partyBallotName": "Shooters, Fishers and Farmers Party"
+        },
+        {
+          "surname": "DI FALCO",
+          "ballotGivenName": "Carlo",
+          "partyBallotName": "Shooters, Fishers and Farmers Party"
+        },
+        {
+          "surname": "JONES",
+          "ballotGivenName": "Brenton Ronald",
+          "partyBallotName": "Shooters, Fishers and Farmers Party"
+        }
+      ]
+    },
+    {
+      "column": "G",
+      "groupName": "Australian Federation Party",
+      "candidates": [
+        {
+          "surname": "BROOMHALL",
+          "ballotGivenName": "Ray",
+          "partyBallotName": "Australian Federation Party"
+        },
+        {
+          "surname": "STRINGER",
+          "ballotGivenName": "Justin",
+          "partyBallotName": "Australian Federation Party"
+        }
+      ]
+    },
+    {
+      "column": "H",
+      "groupName": "The Local Party",
+      "candidates": [
+        {
+          "surname": "MINSHULL",
+          "ballotGivenName": "Leanne",
+          "partyBallotName": "The Local Party"
+        },
+        {
+          "surname": "POULTON",
+          "ballotGivenName": "Linda",
+          "partyBallotName": "The Local Party"
+        },
+        {
+          "surname": "VAN RAAY",
+          "ballotGivenName": "Lara",
+          "partyBallotName": "The Local Party"
+        }
+      ]
+    },
+    {
+      "column": "I",
+      "groupName": "The Greens",
+      "candidates": [
+        {
+          "surname": "WHISH-WILSON",
+          "ballotGivenName": "Peter",
+          "partyBallotName": "The Greens"
+        },
+        {
+          "surname": "BLEYER",
+          "ballotGivenName": "Vanessa",
+          "partyBallotName": "The Greens"
+        },
+        {
+          "surname": "BADGER",
+          "ballotGivenName": "Tabatha",
+          "partyBallotName": "The Greens"
+        }
+      ]
+    },
+    {
+      "column": "J",
+      "groupName": "Liberal Democrats",
+      "candidates": [
+        {
+          "surname": "FIELD",
+          "ballotGivenName": "Topher",
+          "partyBallotName": "Liberal Democrats"
+        },
+        {
+          "surname": "CROFT",
+          "ballotGivenName": "Chris",
+          "partyBallotName": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "column": "K",
+      "groupName": "United Australia Party",
+      "candidates": [
+        {
+          "surname": "ADAMS",
+          "ballotGivenName": "Diana",
+          "partyBallotName": "United Australia Party"
+        },
+        {
+          "surname": "HENNESSY",
+          "ballotGivenName": "Alan",
+          "partyBallotName": "United Australia Party"
+        }
+      ]
+    },
+    {
+      "column": "L",
+      "groupName": "Liberal",
+      "candidates": [
+        {
+          "surname": "DUNIAM",
+          "ballotGivenName": "Jonno",
+          "partyBallotName": "Liberal"
+        },
+        {
+          "surname": "ASKEW",
+          "ballotGivenName": "Wendy",
+          "partyBallotName": "Liberal"
+        },
+        {
+          "surname": "ABETZ",
+          "ballotGivenName": "Eric",
+          "partyBallotName": "Liberal"
+        }
+      ]
+    },
+    {
+      "column": "M",
+      "groupName": "Jacqui Lambie Network",
+      "candidates": [
+        {
+          "surname": "TYRRELL",
+          "ballotGivenName": "Tammy",
+          "partyBallotName": "Jacqui Lambie Network"
+        },
+        {
+          "surname": "GROAT",
+          "ballotGivenName": "Sarah",
+          "partyBallotName": "Jacqui Lambie Network"
+        },
+        {
+          "surname": "LAMBIE",
+          "ballotGivenName": "Tom",
+          "partyBallotName": "Jacqui Lambie Network"
+        }
+      ]
+    },
+    {
+      "column": "N",
+      "groupName": "Informed Medical Options Party",
+      "candidates": [
+        {
+          "surname": "KERSHAW",
+          "ballotGivenName": "Lynne",
+          "partyBallotName": "Informed Medical Options Party"
+        },
+        {
+          "surname": "PICKERING",
+          "ballotGivenName": "Matthew",
+          "partyBallotName": "Informed Medical Options Party"
+        }
+      ]
+    },
+    {
+      "column": "UG",
+      "groupName": "",
+      "candidates": [
+        {
+          "surname": "CROTHERS",
+          "ballotGivenName": "Steve",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "EDWARDS",
+          "ballotGivenName": "Fenella",
+          "partyBallotName": "Independent"
+        }
+      ]
+    }
+  ],
+  "VIC": [
+    {
+      "column": "A",
+      "groupName": "Reason Australia",
+      "candidates": [
+        {
+          "surname": "VEGA",
+          "ballotGivenName": "Yolanda",
+          "partyBallotName": "Reason Australia"
+        },
+        {
+          "surname": "MILLWARD",
+          "ballotGivenName": "Harry",
+          "partyBallotName": "Reason Australia"
+        }
+      ]
+    },
+    {
+      "column": "B",
+      "groupName": "",
+      "candidates": [
+        {
+          "surname": "RICHARDSON",
+          "ballotGivenName": "Damien",
+          "partyBallotName": ""
+        },
+        {
+          "surname": "McBRIDE",
+          "ballotGivenName": "John",
+          "partyBallotName": ""
+        }
+      ]
+    },
+    {
+      "column": "C",
+      "groupName": "Australian Democrats",
+      "candidates": [
+        {
+          "surname": "GREEN",
+          "ballotGivenName": "Leonie",
+          "partyBallotName": "Australian Democrats"
+        },
+        {
+          "surname": "JAGOE",
+          "ballotGivenName": "Stephen Peter",
+          "partyBallotName": "Australian Democrats"
+        }
+      ]
+    },
+    {
+      "column": "D",
+      "groupName": "Liberal/The Nationals",
+      "candidates": [
+        {
+          "surname": "HENDERSON",
+          "ballotGivenName": "Sarah",
+          "partyBallotName": "Liberal"
+        },
+        {
+          "surname": "McKENZIE",
+          "ballotGivenName": "Bridget",
+          "partyBallotName": "The Nationals"
+        },
+        {
+          "surname": "MIRABELLA",
+          "ballotGivenName": "Greg",
+          "partyBallotName": "Liberal"
+        },
+        {
+          "surname": "KMETJ",
+          "ballotGivenName": "Chrestyna",
+          "partyBallotName": "Liberal"
+        },
+        {
+          "surname": "HARRINGTON",
+          "ballotGivenName": "Mick",
+          "partyBallotName": "The Nationals"
+        },
+        {
+          "surname": "BURGESS",
+          "ballotGivenName": "David",
+          "partyBallotName": "Liberal"
+        }
+      ]
+    },
+    {
+      "column": "E",
+      "groupName": "Legalise Cannabis Australia",
+      "candidates": [
+        {
+          "surname": "SMITH",
+          "ballotGivenName": "Elissa",
+          "partyBallotName": "Legalise Cannabis Australia"
+        },
+        {
+          "surname": "TAYLOR",
+          "ballotGivenName": "Wayne",
+          "partyBallotName": "Legalise Cannabis Australia"
+        }
+      ]
+    },
+    {
+      "column": "F",
+      "groupName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+      "candidates": [
+        {
+          "surname": "WEARNE",
+          "ballotGivenName": "Madeleine",
+          "partyBallotName": "Sustainable Australia Party - Stop Overdevelopment / Corruption"
+        },
+        {
+          "surname": "LONG",
+          "ballotGivenName": "Robert",
+          "partyBallotName": "Sustainable Australia Party - Stop Overdevelopment / Corruption"
+        }
+      ]
+    },
+    {
+      "column": "G",
+      "groupName": "Australian Values Party",
+      "candidates": [
+        {
+          "surname": "BURSON",
+          "ballotGivenName": "Chris",
+          "partyBallotName": "Australian Values Party"
+        },
+        {
+          "surname": "ASSER",
+          "ballotGivenName": "Samantha",
+          "partyBallotName": "Australian Values Party"
+        }
+      ]
+    },
+    {
+      "column": "H",
+      "groupName": "Derryn Hinch's Justice Party",
+      "candidates": [
+        {
+          "surname": "HINCH",
+          "ballotGivenName": "Derryn",
+          "partyBallotName": "Derryn Hinch's Justice Party"
+        },
+        {
+          "surname": "STANFIELD",
+          "ballotGivenName": "Ruth",
+          "partyBallotName": "Derryn Hinch's Justice Party"
+        }
+      ]
+    },
+    {
+      "column": "I",
+      "groupName": "Animal Justice Party",
+      "candidates": [
+        {
+          "surname": "CURRIE",
+          "ballotGivenName": "Bronwyn",
+          "partyBallotName": "Animal Justice Party"
+        },
+        {
+          "surname": "DELFORCE",
+          "ballotGivenName": "Chris",
+          "partyBallotName": "Animal Justice Party"
+        }
+      ]
+    },
+    {
+      "column": "J",
+      "groupName": "Australian Progressives",
+      "candidates": [
+        {
+          "surname": "PITT",
+          "ballotGivenName": "Antoinette",
+          "partyBallotName": "Australian Progressives"
+        },
+        {
+          "surname": "KNIGHT",
+          "ballotGivenName": "David",
+          "partyBallotName": "Australian Progressives"
+        }
+      ]
+    },
+    {
+      "column": "K",
+      "groupName": "Australian Labor Party",
+      "candidates": [
+        {
+          "surname": "WHITE",
+          "ballotGivenName": "Linda",
+          "partyBallotName": "Australian Labor Party"
+        },
+        {
+          "surname": "STEWART",
+          "ballotGivenName": "Jana",
+          "partyBallotName": "Australian Labor Party"
+        },
+        {
+          "surname": "NUNN",
+          "ballotGivenName": "Casey",
+          "partyBallotName": "Australian Labor Party"
+        },
+        {
+          "surname": "BRIDGER-DARLING",
+          "ballotGivenName": "Megan",
+          "partyBallotName": "Australian Labor Party"
+        },
+        {
+          "surname": "McFARLANE",
+          "ballotGivenName": "Josh",
+          "partyBallotName": "Australian Labor Party"
+        }
+      ]
+    },
+    {
+      "column": "L",
+      "groupName": "United Australia Party",
+      "candidates": [
+        {
+          "surname": "BABET",
+          "ballotGivenName": "Ralph",
+          "partyBallotName": "United Australia Party"
+        },
+        {
+          "surname": "MORAN",
+          "ballotGivenName": "Kelly",
+          "partyBallotName": "United Australia Party"
+        },
+        {
+          "surname": "GRIMMOND",
+          "ballotGivenName": "Kenneth",
+          "partyBallotName": "United Australia Party"
+        }
+      ]
+    },
+    {
+      "column": "M",
+      "groupName": "Socialist Alliance",
+      "candidates": [
+        {
+          "surname": "DANCE",
+          "ballotGivenName": "Felix",
+          "partyBallotName": "Socialist Alliance"
+        },
+        {
+          "surname": "CARR",
+          "ballotGivenName": "Angela",
+          "partyBallotName": "Socialist Alliance"
+        }
+      ]
+    },
+    {
+      "column": "N",
+      "groupName": "Australian Federation Party",
+      "candidates": [
+        {
+          "surname": "HUGHES",
+          "ballotGivenName": "Vern",
+          "partyBallotName": "Australian Federation Party"
+        },
+        {
+          "surname": "KIM",
+          "ballotGivenName": "Karen",
+          "partyBallotName": "Australian Federation Party"
+        },
+        {
+          "surname": "LACEY",
+          "ballotGivenName": "Cheryl",
+          "partyBallotName": "Australian Federation Party"
+        },
+        {
+          "surname": "MARA",
+          "ballotGivenName": "Chris",
+          "partyBallotName": "Australian Federation Party"
+        },
+        {
+          "surname": "SEWAK",
+          "ballotGivenName": "Neerja",
+          "partyBallotName": "Australian Federation Party"
+        },
+        {
+          "surname": "O'CONNELL",
+          "ballotGivenName": "Mark",
+          "partyBallotName": "Australian Federation Party"
+        }
+      ]
+    },
+    {
+      "column": "O",
+      "groupName": "Shooters, Fishers and Farmers Party",
+      "candidates": [
+        {
+          "surname": "CONSTANTINOU",
+          "ballotGivenName": "Ethan",
+          "partyBallotName": "Shooters, Fishers and Farmers Party"
+        },
+        {
+          "surname": "BOURMAN",
+          "ballotGivenName": "Nicole",
+          "partyBallotName": "Shooters, Fishers and Farmers Party"
+        }
+      ]
+    },
+    {
+      "column": "P",
+      "groupName": "Pauline Hanson's One Nation",
+      "candidates": [
+        {
+          "surname": "PICKERING",
+          "ballotGivenName": "Warren",
+          "partyBallotName": "Pauline Hanson's One Nation"
+        },
+        {
+          "surname": "HUXHAM",
+          "ballotGivenName": "Stuart",
+          "partyBallotName": "Pauline Hanson's One Nation"
+        }
+      ]
+    },
+    {
+      "column": "Q",
+      "groupName": "Citizens Party",
+      "candidates": [
+        {
+          "surname": "BARWICK",
+          "ballotGivenName": "Robbie",
+          "partyBallotName": "Citizens Party"
+        },
+        {
+          "surname": "ISHERWOOD",
+          "ballotGivenName": "Craig",
+          "partyBallotName": "Citizens Party"
+        }
+      ]
+    },
+    {
+      "column": "R",
+      "groupName": "",
+      "candidates": [
+        {
+          "surname": "JONAS",
+          "ballotGivenName": "Morgan C",
+          "partyBallotName": ""
+        },
+        {
+          "surname": "SMIT",
+          "ballotGivenName": "Monica",
+          "partyBallotName": ""
+        }
+      ]
+    },
+    {
+      "column": "S",
+      "groupName": "FUSION: Science, Pirate, Secular, Climate Emergency",
+      "candidates": [
+        {
+          "surname": "CORDNER HUNT",
+          "ballotGivenName": "Kammy",
+          "partyBallotName": "FUSION: Science, Pirate, Secular, Climate Emergency"
+        },
+        {
+          "surname": "FARRANT",
+          "ballotGivenName": "Tahlia",
+          "partyBallotName": "FUSION: Science, Pirate, Secular, Climate Emergency"
+        }
+      ]
+    },
+    {
+      "column": "T",
+      "groupName": "",
+      "candidates": [
+        {
+          "surname": "BENEDYKA",
+          "ballotGivenName": "Susan",
+          "partyBallotName": ""
+        },
+        {
+          "surname": "RICHARDS",
+          "ballotGivenName": "Christine",
+          "partyBallotName": ""
+        }
+      ]
+    },
+    {
+      "column": "U",
+      "groupName": "The Greens",
+      "candidates": [
+        {
+          "surname": "THORPE",
+          "ballotGivenName": "Lidia",
+          "partyBallotName": "The Greens"
+        },
+        {
+          "surname": "FROGLEY",
+          "ballotGivenName": "Adam",
+          "partyBallotName": "The Greens"
+        },
+        {
+          "surname": "AUSTIN",
+          "ballotGivenName": "Sissy",
+          "partyBallotName": "The Greens"
+        },
+        {
+          "surname": "PAYNE",
+          "ballotGivenName": "Zeb",
+          "partyBallotName": "The Greens"
+        }
+      ]
+    },
+    {
+      "column": "V",
+      "groupName": "The Great Australian Party",
+      "candidates": [
+        {
+          "surname": "O'BRYAN",
+          "ballotGivenName": "Darryl",
+          "partyBallotName": "The Great Australian Party"
+        },
+        {
+          "surname": "WHITEHEAD",
+          "ballotGivenName": "Geoff",
+          "partyBallotName": "The Great Australian Party"
+        }
+      ]
+    },
+    {
+      "column": "W",
+      "groupName": "Liberal Democrats",
+      "candidates": [
+        {
+          "surname": "LIMBRICK",
+          "ballotGivenName": "David",
+          "partyBallotName": "Liberal Democrats"
+        },
+        {
+          "surname": "MITCHELL",
+          "ballotGivenName": "Krystle",
+          "partyBallotName": "Liberal Democrats"
+        },
+        {
+          "surname": "WHITE",
+          "ballotGivenName": "Caroline",
+          "partyBallotName": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "column": "X",
+      "groupName": "Informed Medical Options Party",
+      "candidates": [
+        {
+          "surname": "CLONARIDIS",
+          "ballotGivenName": "Nick",
+          "partyBallotName": "Informed Medical Options Party"
+        },
+        {
+          "surname": "CURNOW",
+          "ballotGivenName": "Robyn",
+          "partyBallotName": "Informed Medical Options Party"
+        }
+      ]
+    },
+    {
+      "column": "Y",
+      "groupName": "",
+      "candidates": [
+        {
+          "surname": "BYRNE",
+          "ballotGivenName": "Peter",
+          "partyBallotName": ""
+        },
+        {
+          "surname": "WARDLE",
+          "ballotGivenName": "Jason",
+          "partyBallotName": ""
+        }
+      ]
+    },
+    {
+      "column": "Z",
+      "groupName": "Victorian Socialists",
+      "candidates": [
+        {
+          "surname": "MYLVAGANAM",
+          "ballotGivenName": "Aran",
+          "partyBallotName": "Victorian Socialists"
+        },
+        {
+          "surname": "RICCARDI",
+          "ballotGivenName": "Laura",
+          "partyBallotName": "Victorian Socialists"
+        }
+      ]
+    },
+    {
+      "column": "UG",
+      "groupName": "",
+      "candidates": [
+        {
+          "surname": "FLOYD",
+          "ballotGivenName": "Glenn",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "RIDGEWAY",
+          "ballotGivenName": "Allen",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "BOND",
+          "ballotGivenName": "James",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "SMITH",
+          "ballotGivenName": "Neal",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "DICKS",
+          "ballotGivenName": "Max",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "ATKINSON",
+          "ballotGivenName": "Bernardine",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "ROSS",
+          "ballotGivenName": "Paul",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "DE FRANCESCO",
+          "ballotGivenName": "Nat",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "TOSCANO",
+          "ballotGivenName": "Joseph",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "TRAN",
+          "ballotGivenName": "Tara",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "DILLON",
+          "ballotGivenName": "David John",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "GONSALVEZ",
+          "ballotGivenName": "Geraldine Marie Antoinette",
+          "partyBallotName": "Independent"
+        }
+      ]
+    }
+  ],
+  "WA": [
+    {
+      "column": "A",
+      "groupName": "The Greens (WA)",
+      "candidates": [
+        {
+          "surname": "COX",
+          "ballotGivenName": "Dorinda",
+          "partyBallotName": "The Greens (WA)"
+        },
+        {
+          "surname": "CLARKE",
+          "ballotGivenName": "River",
+          "partyBallotName": "The Greens (WA)"
+        },
+        {
+          "surname": "COLLINS",
+          "ballotGivenName": "Simone",
+          "partyBallotName": "The Greens (WA)"
+        },
+        {
+          "surname": "CLARKE",
+          "ballotGivenName": "Donald",
+          "partyBallotName": "The Greens (WA)"
+        },
+        {
+          "surname": "CAHILL",
+          "ballotGivenName": "Jordan",
+          "partyBallotName": "The Greens (WA)"
+        },
+        {
+          "surname": "WALLACE",
+          "ballotGivenName": "Alex",
+          "partyBallotName": "The Greens (WA)"
+        }
+      ]
+    },
+    {
+      "column": "B",
+      "groupName": "Australian Christians",
+      "candidates": [
+        {
+          "surname": "CRICHTON",
+          "ballotGivenName": "Mike",
+          "partyBallotName": "Australian Christians"
+        },
+        {
+          "surname": "GROENEWALD",
+          "ballotGivenName": "Maryka",
+          "partyBallotName": "Australian Christians"
+        }
+      ]
+    },
+    {
+      "column": "C",
+      "groupName": "United Australia Party",
+      "candidates": [
+        {
+          "surname": "McDONALD",
+          "ballotGivenName": "James",
+          "partyBallotName": "United Australia Party"
+        },
+        {
+          "surname": "FORSTER",
+          "ballotGivenName": "Rob",
+          "partyBallotName": "United Australia Party"
+        }
+      ]
+    },
+    {
+      "column": "D",
+      "groupName": "Australian Labor Party",
+      "candidates": [
+        {
+          "surname": "LINES",
+          "ballotGivenName": "Sue",
+          "partyBallotName": "Australian Labor Party"
+        },
+        {
+          "surname": "STERLE",
+          "ballotGivenName": "Glenn",
+          "partyBallotName": "Australian Labor Party"
+        },
+        {
+          "surname": "PAYMAN",
+          "ballotGivenName": "Fatima",
+          "partyBallotName": "Australian Labor Party"
+        },
+        {
+          "surname": "HELPS",
+          "ballotGivenName": "Vicki",
+          "partyBallotName": "Australian Labor Party"
+        }
+      ]
+    },
+    {
+      "column": "E",
+      "groupName": "Sustainable Australia Party - Stop Overdevelopment / Corruption",
+      "candidates": [
+        {
+          "surname": "OBORN",
+          "ballotGivenName": "Karen",
+          "partyBallotName": "Sustainable Australia Party - Stop Overdevelopment / Corruption"
+        },
+        {
+          "surname": "OOSTRYCK",
+          "ballotGivenName": "Ryan",
+          "partyBallotName": "Sustainable Australia Party - Stop Overdevelopment / Corruption"
+        }
+      ]
+    },
+    {
+      "column": "F",
+      "groupName": "Australian Democrats",
+      "candidates": [
+        {
+          "surname": "MITCHELL",
+          "ballotGivenName": "Elana",
+          "partyBallotName": "Australian Democrats"
+        },
+        {
+          "surname": "SIMSON",
+          "ballotGivenName": "Simon",
+          "partyBallotName": "Australian Democrats"
+        }
+      ]
+    },
+    {
+      "column": "G",
+      "groupName": "Pauline Hanson's One Nation",
+      "candidates": [
+        {
+          "surname": "FILING",
+          "ballotGivenName": "Paul Anthony",
+          "partyBallotName": "Pauline Hanson's One Nation"
+        },
+        {
+          "surname": "MUNDY",
+          "ballotGivenName": "Sheila",
+          "partyBallotName": "Pauline Hanson's One Nation"
+        }
+      ]
+    },
+    {
+      "column": "H",
+      "groupName": "Socialist Alliance",
+      "candidates": [
+        {
+          "surname": "HARLEY",
+          "ballotGivenName": "Petrina",
+          "partyBallotName": "Socialist Alliance"
+        },
+        {
+          "surname": "SALMON",
+          "ballotGivenName": "Alex",
+          "partyBallotName": "Socialist Alliance"
+        }
+      ]
+    },
+    {
+      "column": "I",
+      "groupName": "Legalise Cannabis Australia",
+      "candidates": [
+        {
+          "surname": "JOHNSON",
+          "ballotGivenName": "Nicola Julia",
+          "partyBallotName": "Legalise Cannabis Australia"
+        },
+        {
+          "surname": "PEET",
+          "ballotGivenName": "Aaron",
+          "partyBallotName": "Legalise Cannabis Australia"
+        }
+      ]
+    },
+    {
+      "column": "J",
+      "groupName": "The Great Australian Party",
+      "candidates": [
+        {
+          "surname": "CULLETON",
+          "ballotGivenName": "Rodney Norman",
+          "partyBallotName": "The Great Australian Party"
+        },
+        {
+          "surname": "VINCI",
+          "ballotGivenName": "Samantha Lee",
+          "partyBallotName": "The Great Australian Party"
+        }
+      ]
+    },
+    {
+      "column": "K",
+      "groupName": "",
+      "candidates": [
+        {
+          "surname": "GEORGATOS",
+          "ballotGivenName": "Gerry",
+          "partyBallotName": ""
+        },
+        {
+          "surname": "KRAKOUER",
+          "ballotGivenName": "Megan",
+          "partyBallotName": ""
+        }
+      ]
+    },
+    {
+      "column": "L",
+      "groupName": "Liberal Democrats",
+      "candidates": [
+        {
+          "surname": "FANTINEL",
+          "ballotGivenName": "Kate",
+          "partyBallotName": "Liberal Democrats"
+        },
+        {
+          "surname": "McLOUGHLIN",
+          "ballotGivenName": "Peter",
+          "partyBallotName": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "column": "M",
+      "groupName": "Informed Medical Options Party",
+      "candidates": [
+        {
+          "surname": "KINSELLA",
+          "ballotGivenName": "Michelle",
+          "partyBallotName": "Informed Medical Options Party"
+        },
+        {
+          "surname": "LOCKYER",
+          "ballotGivenName": "Leanne",
+          "partyBallotName": "Informed Medical Options Party"
+        }
+      ]
+    },
+    {
+      "column": "N",
+      "groupName": "Australian Values Party",
+      "candidates": [
+        {
+          "surname": "PIZZEY",
+          "ballotGivenName": "Rebecca",
+          "partyBallotName": "Australian Values Party"
+        },
+        {
+          "surname": "FITZPATRICK",
+          "ballotGivenName": "Kathy",
+          "partyBallotName": "Australian Values Party"
+        }
+      ]
+    },
+    {
+      "column": "O",
+      "groupName": "Animal Justice Party",
+      "candidates": [
+        {
+          "surname": "DORN",
+          "ballotGivenName": "Amanda",
+          "partyBallotName": "Animal Justice Party"
+        },
+        {
+          "surname": "McCASKER",
+          "ballotGivenName": "Elizabeth Gay",
+          "partyBallotName": "Animal Justice Party"
+        }
+      ]
+    },
+    {
+      "column": "P",
+      "groupName": "",
+      "candidates": [
+        {
+          "surname": "TINLEY",
+          "ballotGivenName": "Cam",
+          "partyBallotName": ""
+        },
+        {
+          "surname": "AYRE",
+          "ballotGivenName": "Tricia",
+          "partyBallotName": ""
+        }
+      ]
+    },
+    {
+      "column": "Q",
+      "groupName": "Australian Federation Party",
+      "candidates": [
+        {
+          "surname": "WILYMAN",
+          "ballotGivenName": "Judy",
+          "partyBallotName": "Australian Federation Party"
+        },
+        {
+          "surname": "BARRETT",
+          "ballotGivenName": "Leanne",
+          "partyBallotName": "Australian Federation Party"
+        }
+      ]
+    },
+    {
+      "column": "R",
+      "groupName": "Liberal",
+      "candidates": [
+        {
+          "surname": "CASH",
+          "ballotGivenName": "Michaelia",
+          "partyBallotName": "Liberal"
+        },
+        {
+          "surname": "SMITH",
+          "ballotGivenName": "Dean",
+          "partyBallotName": "Liberal"
+        },
+        {
+          "surname": "SMALL",
+          "ballotGivenName": "Ben",
+          "partyBallotName": "Liberal"
+        },
+        {
+          "surname": "SUFI",
+          "ballotGivenName": "Sherry",
+          "partyBallotName": "Liberal"
+        }
+      ]
+    },
+    {
+      "column": "S",
+      "groupName": "FUSION: Science, Pirate, Secular, Climate Emergency",
+      "candidates": [
+        {
+          "surname": "VILJOEN",
+          "ballotGivenName": "Tim",
+          "partyBallotName": "FUSION: Science, Pirate, Secular, Climate Emergency"
+        },
+        {
+          "surname": "WOODINGS",
+          "ballotGivenName": "Adam",
+          "partyBallotName": "FUSION: Science, Pirate, Secular, Climate Emergency"
+        }
+      ]
+    },
+    {
+      "column": "T",
+      "groupName": "WESTERN AUSTRALIA PARTY",
+      "candidates": [
+        {
+          "surname": "McDOWALL",
+          "ballotGivenName": "Matthew",
+          "partyBallotName": "WESTERN AUSTRALIA PARTY"
+        },
+        {
+          "surname": "MATHESON",
+          "ballotGivenName": "Julie",
+          "partyBallotName": "WESTERN AUSTRALIA PARTY"
+        }
+      ]
+    },
+    {
+      "column": "U",
+      "groupName": "Citizens Party",
+      "candidates": [
+        {
+          "surname": "BRAILEY",
+          "ballotGivenName": "Denise",
+          "partyBallotName": "Citizens Party"
+        },
+        {
+          "surname": "ROBINSON",
+          "ballotGivenName": "Jean",
+          "partyBallotName": "Citizens Party"
+        }
+      ]
+    },
+    {
+      "column": "V",
+      "groupName": "Federal ICAC Now",
+      "candidates": [
+        {
+          "surname": "COUNT",
+          "ballotGivenName": "Matthew",
+          "partyBallotName": "Federal ICAC Now"
+        },
+        {
+          "surname": "WATKINS",
+          "ballotGivenName": "Dianne",
+          "partyBallotName": "Federal ICAC Now"
+        }
+      ]
+    },
+    {
+      "column": "UG",
+      "groupName": "",
+      "candidates": [
+        {
+          "surname": "MURPHY",
+          "ballotGivenName": "Ziggi",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "BUCKLE",
+          "ballotGivenName": "Ashley",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "McDONALD",
+          "ballotGivenName": "Peter Robert",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "VAGH",
+          "ballotGivenName": "Yunous",
+          "partyBallotName": "Independent"
+        },
+        {
+          "surname": "BURDETT",
+          "ballotGivenName": "Bob",
+          "partyBallotName": "Seniors United Party of Australia"
+        },
+        {
+          "surname": "PEGRUM",
+          "ballotGivenName": "Valentine",
+          "partyBallotName": "Independent"
+        }
+      ]
+    }
+  ]
+}

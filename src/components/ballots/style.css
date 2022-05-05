@@ -1,9 +1,7 @@
 .rankingBox {
   height: 50px;
   min-width: 50px;
-  /*flex-grow: 0;*/
-  /*flex-shrink: 1*/
-  max-width: 100%;
+  max-width: 50px;
   border: 2px solid black;
   display: flex;
   justify-content: center;
