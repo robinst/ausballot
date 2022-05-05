@@ -48,6 +48,10 @@
   max-height: 50px;
   border: 2px solid black;
   margin-right: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2em;
 }
 
 .candidateDiv {
