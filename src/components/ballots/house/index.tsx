@@ -1,8 +1,13 @@
-import { FunctionalComponent, h } from "preact";
+import { createRef, FunctionalComponent, h } from "preact";
 import style from "./style.css";
 import houseCandidates from "../../../data/house-candidates.json";
 import { stateNames } from "../constants";
-import { StateUpdater, useState } from "preact/hooks";
+import {
+  StateUpdater,
+  useEffect,
+  useLayoutEffect,
+  useState,
+} from "preact/hooks";
 
 interface Props {
   state: string;
@@ -70,22 +75,34 @@ const HouseBallot: FunctionalComponent<Props> = (props: Props) => {
     division
   ] as HouseCandidate[];
 
+  const ref = createRef();
+
   const [ranking, setRanking] = useState<number[]>(Array(candidates.length));
+
+  useLayoutEffect(() => {
+    const node = ref.current;
+    if (node !== undefined) {
+      // node.style.width = `${node.clientHeight * 3}px`;
+    }
+  });
 
   const stateName = stateNames[state] || state;
 
   return (
-    <div class={style.ballotContainer}>
-      <div class={style.ballot}>
-        <p class={style.state}>{stateName}</p>
-        <p class={style.division}>Electoral Division of {division}</p>
-        <p class={style.how}>
-          Number the boxes from 1 to {candidates.length} in the order of your
-          choice.
-        </p>
+    <div>
+      <div class={style.ballotContainer} ref={ref}>
+        <div class={style.ballot}>
+          <p class={style.state}>{stateName}</p>
+          <p class={style.division}>Electoral Division of {division}</p>
+          <p class={style.how}>
+            Number the boxes from 1 to {candidates.length} in the order of your
+            choice.
+          </p>
 
-        {candidates.map((c, i) => renderCandidate(c, i, ranking, setRanking))}
+          {candidates.map((c, i) => renderCandidate(c, i, ranking, setRanking))}
+        </div>
       </div>
+      <div className={style.stretcher} />
     </div>
   );
 };
