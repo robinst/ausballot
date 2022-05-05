@@ -1,8 +1,9 @@
 .ballot {
-  background-color: #eff7e8;
-  max-width: 20em;
+  max-width: 420px;
   padding: 1em;
-  max-width: 421px;
+  background-color: #eff7e8;
+  border: 1px solid #aaaaaa;
+  box-shadow: 2px 2px 1px #dddddd;
 }
 
 .candidateName {
@@ -20,7 +21,6 @@
 
 .state {
   font-size: 1.4em;
-  margin-top: 30px;
 }
 
 .division {
@@ -42,18 +42,6 @@
   word-spacing: -1px;
 }
 
-.order {
-  min-width: 50px;
-  min-height: 50px;
-  max-height: 50px;
-  border: 2px solid black;
-  margin-right: 1em;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 2em;
-}
-
 .candidateDiv {
   display: flex;
   flex-direction: row;
@@ -63,6 +51,6 @@
 .candidateDetails {
   display: flex;
   flex-direction: column;
-  margin: 0;
+  margin-left: 1em;
   justify-content: flex-start;
 }

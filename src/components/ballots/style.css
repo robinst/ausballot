@@ -1,0 +1,12 @@
+.rankingBox {
+  height: 50px;
+  min-width: 50px;
+  /*flex-grow: 0;*/
+  /*flex-shrink: 1*/
+  max-width: 100%;
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2em;
+}

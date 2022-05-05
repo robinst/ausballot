@@ -1,0 +1,25 @@
+.ballot {
+  max-width: 420px;
+  padding: 1em;
+  background-color: #f2f2f2;
+  border: 1px solid #aaaaaa;
+  box-shadow: 2px 2px 1px #dddddd;
+}
+
+.groups {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.groupDiv {
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+}
+
+.groupName {
+  flex-shrink: 1;
+  flex-wrap: wrap;
+  font-size: 0.8em;
+  word-break: break-word;
+}

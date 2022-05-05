@@ -1,5 +1,6 @@
 import { FunctionalComponent, h } from "preact";
 import style from "./style.css";
+import commonStyle from "../style.css";
 import houseCandidates from "../../../data/house-candidates.json";
 import { stateNames } from "../constants";
 import { StateUpdater, useState } from "preact/hooks";
@@ -50,7 +51,7 @@ const renderCandidate = (
 
   return (
     <div class={style.candidateDiv}>
-      <div class={style.order} onClick={onClick}>
+      <div class={commonStyle.rankingBox} onClick={onClick}>
         {ranking[index]}
       </div>
       <div class={style.candidateDetails}>
