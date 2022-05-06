@@ -3,56 +3,7 @@ import style from "./style.css";
 import commonStyle from "../style.css";
 import houseCandidates from "../../../data/house-candidates.json";
 import { StateUpdater, useState } from "preact/hooks";
-
-enum RankingState {
-  NotStarted,
-  Incomplete,
-  Complete,
-}
-
-class Ranking {
-  ranking: Array<number | undefined>;
-
-  constructor(ranking: Array<number | undefined>) {
-    this.ranking = ranking;
-  }
-
-  check(): RankingState {
-    const numbered = this.ranking.filter((r) => r !== undefined).length;
-    if (numbered === 0) {
-      return RankingState.NotStarted;
-    } else if (numbered === this.ranking.length) {
-      return RankingState.Complete;
-    } else {
-      return RankingState.Incomplete;
-    }
-  }
-
-  toggleRanking(index: number): Ranking {
-    if (this.ranking[index] !== undefined) {
-      return this.updatedRanking(index, undefined);
-    } else {
-      const availableNumbers = Array.from({ length: 10 }, (x, i) => i + 1);
-      for (const rank of this.ranking) {
-        if (rank !== undefined) {
-          delete availableNumbers[rank - 1];
-        }
-      }
-      const rank = availableNumbers.find((n) => n);
-      if (rank !== undefined) {
-        return this.updatedRanking(index, rank);
-      } else {
-        return this;
-      }
-    }
-  }
-
-  updatedRanking(index: number, number: number | undefined): Ranking {
-    const newRanking = new Ranking([...this.ranking]);
-    newRanking.ranking[index] = number;
-    return newRanking;
-  }
-}
+import { Ranking, RankingState } from "../ranking";
 
 interface Props {
   state: string;
@@ -126,9 +77,7 @@ const HouseBallot: FunctionalComponent<Props> = (props: Props) => {
     division
   ] as HouseCandidate[];
 
-  const [ranking, setRanking] = useState(
-    new Ranking(Array(candidates.length).fill(undefined))
-  );
+  const [ranking, setRanking] = useState(Ranking.empty(candidates.length));
 
   return (
     <div class={style.ballotContainer}>
