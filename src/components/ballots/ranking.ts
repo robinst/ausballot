@@ -15,11 +15,22 @@ export class Ranking {
     return new Ranking(Array(length).fill(undefined));
   }
 
-  check(): RankingState {
-    const numbered = this.ranking.filter((r) => r !== undefined).length;
-    if (numbered === 0) {
+  check(required?: number): RankingState {
+    const requiredNumber = required ? required : this.ranking.length;
+
+    const filled = this.ranking.filter((r) => r !== undefined);
+    if (filled.length === 0) {
       return RankingState.NotStarted;
-    } else if (numbered === this.ranking.length) {
+    } else if (filled.length >= requiredNumber) {
+      // We have the required count of numbers, but need to check that they're contiguous (e.g. 1 to 6).
+      filled.sort();
+      for (let i = 0; i < filled.length; i++) {
+        if (filled[i] !== i + 1) {
+          // TODO: Does this need to be a different state?
+          return RankingState.Incomplete;
+        }
+      }
+
       return RankingState.Complete;
     } else {
       return RankingState.Incomplete;
