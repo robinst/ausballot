@@ -1,15 +1,23 @@
 .home {
-  padding: 56px 20px;
+  padding: 56px 20px 20px;
   width: min(100vw, 600px);
-  min-height: 100%;
   display: flex;
   flex-direction: column;
+  flex-grow: 1;
+}
+
+.main {
+  flex-grow: 1;
+}
+
+.footer {
+  display: flex;
+  justify-content: end;
 }
 
 .info {
   background-color: #f0f4ff;
   border: 1px solid #bfcffa;
   border-radius: 4px;
-  padding: 1em;
-  /*content: "ⓘ";*/
+  padding: 10px;
 }
