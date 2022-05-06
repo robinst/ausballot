@@ -17,7 +17,6 @@ const Home: FunctionalComponent = () => {
         </a>
         .
       </p>
-      <p>This is the Home component.</p>
     </div>
   );
 };

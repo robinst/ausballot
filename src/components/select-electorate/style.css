@@ -1,6 +1,6 @@
 .container {
-  width: min(92vw, 600px);
   margin-top: 10px;
+  width: 100%;
 }
 
 .label {
