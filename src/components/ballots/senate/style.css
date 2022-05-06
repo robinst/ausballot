@@ -1,31 +1,56 @@
 .ballot {
-  max-width: 420px;
-  padding: 1em;
-  background-color: #f2f2f2;
+  max-width: min(92vw, 600px);
+  padding: 10px;
+  background-color: #f4f4f4;
   border: 1px solid #aaaaaa;
   box-shadow: 2px 2px 1px #dddddd;
+}
+
+.title {
+  margin-top: 0.5em;
+  margin-bottom: 0;
+}
+
+.state {
+  font-weight: bold;
+  margin-top: 0;
+}
+
+.aboveTheLine {
+  font-weight: bold;
+  font-size: 1.1em;
+  margin-bottom: 0;
+}
+
+.how {
+  margin-top: 0;
 }
 
 .groups {
   display: flex;
   flex-wrap: wrap;
+  gap: 20px 10px;
 }
 
 .groupDiv {
   display: flex;
   flex-direction: column;
   width: 100px;
-  margin-right: 1em;
-  margin-bottom: 1em;
+  padding-left: 10px;
+  border-left: 1px solid #aaaaaa;
+}
+
+.column {
+  margin-bottom: 5px;
 }
 
 .groupName {
   flex-shrink: 1;
   flex-wrap: wrap;
   word-break: break-word;
-  font-weight: 500;
-  font-size: 0.8em;
-  text-transform: uppercase;
-  margin: 0;
+  font-weight: 600;
+  font-size: 0.7em;
+  /*text-transform: uppercase;*/
+  margin-top: 5px;
   line-height: 1.1em;
 }

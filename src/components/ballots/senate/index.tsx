@@ -24,7 +24,7 @@ type SenateCandidate = {
 const renderGroup = (group: SenateGroup) => {
   let groupDescription = group.groupName;
   if (groupDescription === null || groupDescription === "") {
-    const names = group.candidates.map((c) => c.surname).join(",");
+    const names = group.candidates.map((c) => c.surname).join(", ");
     groupDescription = `(${names})`;
   }
   return (
@@ -45,7 +45,13 @@ const SenateBallot: FunctionalComponent<Props> = (props: Props) => {
 
   return (
     <div class={style.ballot}>
+      <p class={style.title}>Senate ballot paper</p>
       <p class={style.state}>{stateName}</p>
+      <p class={style.aboveTheLine}>Above the line</p>
+      <p class={style.how}>
+        By numbering at least <strong>6</strong> of these boxes in the order of
+        your choice (with number 1 as your first choice)
+      </p>
 
       <div class={style.groups}>{groups.map((g) => renderGroup(g))}</div>
     </div>
