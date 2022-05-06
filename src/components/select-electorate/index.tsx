@@ -1,7 +1,8 @@
 import { FunctionalComponent, h } from "preact";
 import { route } from "preact-router";
 import Select, { components, ActionMeta, SingleValueProps } from "react-select";
-import houseCandidates from "../data/house-candidates.json";
+import style from "./style.css";
+import houseCandidates from "../../data/house-candidates.json";
 
 interface Props {
   selectedValue?: string;
@@ -61,17 +62,21 @@ const SelectElectorate: FunctionalComponent<Props> = (props: Props) => {
     .find((o) => o.value === selectedValue);
 
   return (
-    <span>
-      Electorate:
+    <div class={style.container}>
+      <label for="select-electorate" class={style.label}>
+        Electorate
+      </label>
       <Select<Option, false>
+        inputId="select-electorate"
         value={selectedOption}
         options={options}
         components={{ SingleValue }}
         isSearchable
         isClearable
         onChange={onChange}
+        placeholder="Select electorate..."
       />
-    </span>
+    </div>
   );
 };
 

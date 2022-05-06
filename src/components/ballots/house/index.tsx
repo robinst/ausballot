@@ -78,7 +78,6 @@ const HouseBallot: FunctionalComponent<Props> = (props: Props) => {
   return (
     <div class={style.ballotContainer}>
       <div class={style.ballot}>
-        <p class={style.state}>{stateName}</p>
         <p class={style.division}>Electoral Division of {division}</p>
         <p class={style.how}>
           Number the boxes from 1 to {candidates.length} in the order of your

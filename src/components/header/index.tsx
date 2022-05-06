@@ -5,7 +5,7 @@ import style from "./style.css";
 const Header: FunctionalComponent = () => {
   return (
     <header class={style.header}>
-      <h1>Preact App</h1>
+      <h1>Australian Election Ballot</h1>
       <nav>
         <Link activeClassName={style.active} href="/">
           Home
