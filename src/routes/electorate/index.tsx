@@ -14,7 +14,11 @@ const Electorate: FunctionalComponent<Props> = (props: Props) => {
 
   return (
     <div class={style.electorate}>
+      <label htmlFor="select-electorate" className={style.electorateLabel}>
+        Electorate
+      </label>
       <SelectElectorate selectedValue={`${state}/${division}`} />
+
       <h2 class={style.header}>House ballot</h2>
 
       <HouseBallot state={state} division={division} />

@@ -6,13 +6,12 @@ const Home: FunctionalComponent = () => {
   return (
     <div class={style.home}>
       <section class={style.main}>
-        <h2>Welcome</h2>
+        <h3>Hey!</h3>
         <p>
           Are you voting in the 2022 Australian election? Would you like to see
-          your ballot papers before going to the polls? You've come to the right
-          place.
+          your ballot papers before going to the polls?
         </p>
-        <p>Select your electorate below to get started:</p>
+        <p>Select your electorate to get started:</p>
         <SelectElectorate />
         <p className={style.info}>
           Not sure which electorate you're in? Find out on the{" "}

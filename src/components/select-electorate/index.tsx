@@ -63,9 +63,6 @@ const SelectElectorate: FunctionalComponent<Props> = (props: Props) => {
 
   return (
     <div class={style.container}>
-      <label for="select-electorate" class={style.label}>
-        Electorate
-      </label>
       <Select<Option, false>
         inputId="select-electorate"
         value={selectedOption}
@@ -74,7 +71,7 @@ const SelectElectorate: FunctionalComponent<Props> = (props: Props) => {
         isSearchable
         isClearable
         onChange={onChange}
-        placeholder="Select electorate..."
+        placeholder="Search..."
       />
     </div>
   );
