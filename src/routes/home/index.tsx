@@ -25,11 +25,11 @@ const Home: FunctionalComponent = () => {
           .
         </p>
       </section>
-      <section class={style.footer}>
+      <footer class={style.footer}>
         <a href="https://www.buymeacoffee.com/robinst">
           <img width="150" height="42" src="/assets/bmc-white-button.png" />
         </a>
-      </section>
+      </footer>
     </div>
   );
 };
