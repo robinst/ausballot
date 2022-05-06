@@ -1,12 +1,9 @@
 .electorate {
   padding: 56px 20px;
-  width: min(100vw, 600px);
+  width: min(100vw, 620px);
   min-height: 100%;
   display: flex;
   flex-direction: column;
-  /*align-items: start;*/
-  /* max-width: 50%; */
-  /* margin: auto; */
 }
 
 .header {

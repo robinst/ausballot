@@ -45,7 +45,6 @@ const SenateBallot: FunctionalComponent<Props> = (props: Props) => {
 
   return (
     <div class={style.ballot}>
-      <p class={style.title}>Senate ballot paper</p>
       <p class={style.state}>{stateName}</p>
       <p class={style.aboveTheLine}>Above the line</p>
       <p class={style.how}>
