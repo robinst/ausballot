@@ -5,6 +5,7 @@
   flex-direction: column;
   justify-content: center;
   margin-bottom: 15px;
+  box-shadow: 2px 2px 1px #dddddd;
 }
 
 .help p {
@@ -20,6 +21,8 @@
 }
 
 .helpIncomplete {
+  position: sticky;
+  top: 56px;
   background-color: #fff7e0;
   border-left: 4px solid #ffc400;
 }
