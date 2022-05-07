@@ -29,7 +29,7 @@ export class Ranking {
       return RankingState.NotStarted;
     } else if (filled.length >= requiredNumber) {
       // We have the required count of numbers, but need to check that they're contiguous (e.g. 1 to 6).
-      filled.sort();
+      filled.sort((a, b) => (a || 0) - (b || 0));
       for (let i = 0; i < filled.length; i++) {
         if (filled[i] !== i + 1) {
           // TODO: Does this need to be a different state?
@@ -49,20 +49,21 @@ export class Ranking {
   toggleRanking(index: number): Ranking {
     if (this.ranking[index] !== undefined) {
       return this.updatedRanking(index, undefined);
-    } else {
-      const availableNumbers = Array.from({ length: 10 }, (x, i) => i + 1);
-      for (const rank of this.ranking) {
-        if (rank !== undefined) {
-          delete availableNumbers[rank - 1];
-        }
-      }
-      const rank = availableNumbers.find((n) => n);
+    }
+    const availableNumbers = Array.from(
+      { length: this.ranking.length },
+      (x, i) => i + 1
+    );
+    for (const rank of this.ranking) {
       if (rank !== undefined) {
-        return this.updatedRanking(index, rank);
-      } else {
-        return this;
+        delete availableNumbers[rank - 1];
       }
     }
+    const rank = availableNumbers.find((n) => n);
+    if (rank !== undefined) {
+      return this.updatedRanking(index, rank);
+    }
+    return this;
   }
 
   updatedRanking(index: number, number: number | undefined): Ranking {

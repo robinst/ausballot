@@ -55,4 +55,23 @@ describe("Ranking class", () => {
 
     expect(ranking.ranking).toStrictEqual([2, 1, 3, undefined, undefined]);
   });
+
+  test("works for a large number", () => {
+    let ranking = Ranking.empty(15);
+    ranking = ranking.toggleRanking(0);
+    ranking = ranking.toggleRanking(1);
+    ranking = ranking.toggleRanking(2);
+    ranking = ranking.toggleRanking(3);
+    ranking = ranking.toggleRanking(4);
+    ranking = ranking.toggleRanking(5);
+    ranking = ranking.toggleRanking(6);
+    ranking = ranking.toggleRanking(7);
+    ranking = ranking.toggleRanking(8);
+    ranking = ranking.toggleRanking(9);
+    ranking = ranking.toggleRanking(10);
+    ranking = ranking.toggleRanking(11);
+    ranking = ranking.toggleRanking(12);
+
+    expect(ranking.check(6)).toBe(RankingState.Complete);
+  });
 });

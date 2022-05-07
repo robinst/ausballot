@@ -5,6 +5,14 @@
   box-shadow: 2px 2px 1px #dddddd;
 }
 
+.summaryItem {
+  font-weight: 500;
+  margin-right: 10px;
+  margin-bottom: 5px;
+  padding: 2px 5px;
+  border: 1px solid #dddddd;
+}
+
 .heading {
   display: flex;
   flex-direction: row;

@@ -1,9 +1,17 @@
 .help {
-  height: 60px;
+  min-height: 62px;
   padding: 10px 16px;
   display: flex;
-  align-items: center;
+  flex-direction: column;
+  justify-content: center;
   margin-bottom: 15px;
+}
+
+.help p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .helpNotStarted {

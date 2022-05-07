@@ -26,7 +26,7 @@ type SenateCandidate = {
   partyBallotName: string;
 };
 
-const renderHelp = (ranking: Ranking) => {
+const renderHelp = (ranking: Ranking, groups: SenateGroup[]) => {
   const rankingState = ranking.check(6);
 
   switch (rankingState) {
@@ -44,13 +44,34 @@ const renderHelp = (ranking: Ranking) => {
           make your vote count!
         </div>
       );
-    case RankingState.Complete:
+    case RankingState.Complete: {
+      const rankAndColumn = ranking.ranking
+        .map(
+          (rank, index) =>
+            [rank, groups[index].column] as [number | undefined, string]
+        )
+        .filter(([rank]) => rank !== undefined);
+      rankAndColumn.sort(([a], [b]) => (a || 0) - (b || 0));
+      const summaryItems = rankAndColumn.map(
+        ([rank, column]) => `${rank}✎${column}`
+      );
+
       return (
         <div class={`${commonStyle.help} ${commonStyle.helpComplete}`}>
-          🥳 Ballot valid! Why don't you take a screenshot now (zoom out to see
-          all boxes if necessary).
+          <p>
+            🥳 Ballot valid! Why don't you take a screenshot now (zoom out to
+            see all boxes if necessary). Summary of your vote:
+          </p>
+          <p>
+            {summaryItems.map((item, index) => (
+              <span class={style.summaryItem} key={index}>
+                {item}
+              </span>
+            ))}
+          </p>
         </div>
       );
+    }
   }
 };
 
@@ -70,7 +91,7 @@ const renderGroup = (
     groupDescription = `(${names})`;
   }
   return (
-    <div class={style.groupDiv}>
+    <div class={style.groupDiv} key={index}>
       <div class={style.column}>{group.column}</div>
       <div className={commonStyle.rankingBox} onClick={onClick}>
         {ranking.ranking[index]}
@@ -91,7 +112,7 @@ const SenateBallot: FunctionalComponent<Props> = (props: Props) => {
 
   return (
     <div>
-      {renderHelp(ranking)}
+      {renderHelp(ranking, groups)}
       <div class={style.ballot}>
         <div class={style.heading}>
           <p class={style.state}>{stateName}</p>
