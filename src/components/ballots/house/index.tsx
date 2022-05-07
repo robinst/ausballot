@@ -86,25 +86,24 @@ const HouseBallot: FunctionalComponent<Props> = (props: Props) => {
     <div>
       {renderHelp(ranking)}
       <div class={style.ballot}>
-        <div class={style.heading}>
-          <p class={style.division}>Electoral Division of {division}</p>
-          {ranking.hasStarted() && (
-            <button
-              class={style.clearButton}
-              onClick={() =>
-                confirm("Clear your vote?") && setRanking(ranking.cleared())
-              }
-            >
-              Clear
-            </button>
-          )}
-        </div>
+        <p class={style.division}>Electoral Division of {division}</p>
         <p class={style.how}>
           Number the boxes from 1 to {candidates.length} in the order of your
           choice.
         </p>
 
         {candidates.map((c, i) => renderCandidate(c, i, ranking, setRanking))}
+
+        {ranking.hasStarted() && (
+          <button
+            class={style.clearButton}
+            onClick={() =>
+              confirm("Clear your vote?") && setRanking(ranking.cleared())
+            }
+          >
+            Clear
+          </button>
+        )}
       </div>
     </div>
   );

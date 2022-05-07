@@ -13,13 +13,6 @@
   border: 1px solid #dddddd;
 }
 
-.heading {
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  border-bottom: 4px solid black;
-}
-
 .state {
   flex-grow: 1;
   margin-top: 0;
@@ -27,7 +20,7 @@
 }
 
 .clearButton {
-  flex-shrink: 1;
+  margin-top: 10px;
 }
 
 .aboveTheLine {

@@ -114,19 +114,7 @@ const SenateBallot: FunctionalComponent<Props> = (props: Props) => {
     <div>
       {renderHelp(ranking, groups)}
       <div class={style.ballot}>
-        <div class={style.heading}>
-          <p class={style.state}>{stateName}</p>
-          {ranking.hasStarted() && (
-            <button
-              class={style.clearButton}
-              onClick={() =>
-                confirm("Clear your vote?") && setRanking(ranking.cleared())
-              }
-            >
-              Clear
-            </button>
-          )}
-        </div>
+        <p class={style.state}>{stateName}</p>
         <p class={style.aboveTheLine}>Above the line</p>
         <p class={style.how}>
           By numbering at least <strong>6</strong> of these boxes in the order
@@ -136,6 +124,17 @@ const SenateBallot: FunctionalComponent<Props> = (props: Props) => {
         <div class={style.groups}>
           {groups.map((g, i) => renderGroup(g, i, ranking, setRanking))}
         </div>
+
+        {ranking.hasStarted() && (
+          <button
+            class={style.clearButton}
+            onClick={() =>
+              confirm("Clear your vote?") && setRanking(ranking.cleared())
+            }
+          >
+            Clear
+          </button>
+        )}
       </div>
     </div>
   );
