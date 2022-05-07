@@ -16,8 +16,7 @@
 }
 
 .info {
-  background-color: #f0f4ff;
-  border: 1px solid #bfcffa;
-  border-radius: 4px;
+  background-color: #e7f1ff;
+  border-left: 4px solid #0065ff;
   padding: 10px;
 }

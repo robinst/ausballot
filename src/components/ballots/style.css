@@ -30,12 +30,12 @@
 }
 
 .rankingBox {
-  height: 50px;
-  min-width: 50px;
-  max-width: 50px;
+  height: 40px;
+  min-width: 40px;
+  max-width: 40px;
   border: 2px solid black;
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 2em;
+  font-size: 26px;
 }
