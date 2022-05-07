@@ -10,6 +10,10 @@ interface Props {
   state: string;
 }
 
+type SenateCandidates = {
+  [key: string]: SenateGroup[];
+};
+
 type SenateGroup = {
   column: string;
   groupName: string;
@@ -79,7 +83,7 @@ const renderGroup = (
 const SenateBallot: FunctionalComponent<Props> = (props: Props) => {
   const { state } = props;
 
-  const groups = (senateCandidates as any)[state] as SenateGroup[];
+  const groups = (senateCandidates as SenateCandidates)[state];
 
   const [ranking, setRanking] = useState(Ranking.empty(groups.length));
 

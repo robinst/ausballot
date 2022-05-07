@@ -10,8 +10,13 @@ interface Props {
   division: string;
 }
 
+type HouseCandidates = {
+  [key: string]: {
+    [key: string]: HouseCandidate[];
+  };
+};
+
 type HouseCandidate = {
-  ballotPosition: number;
   surname: string;
   ballotGivenName: string;
   partyBallotName: string;
@@ -73,9 +78,7 @@ const renderCandidate = (
 const HouseBallot: FunctionalComponent<Props> = (props: Props) => {
   const { state, division } = props;
 
-  const candidates = (houseCandidates as any)[state][
-    division
-  ] as HouseCandidate[];
+  const candidates = (houseCandidates as HouseCandidates)[state][division];
 
   const [ranking, setRanking] = useState(Ranking.empty(candidates.length));
 

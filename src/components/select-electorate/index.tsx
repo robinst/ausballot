@@ -1,6 +1,6 @@
 import { FunctionalComponent, h } from "preact";
 import { route } from "preact-router";
-import Select, { components, ActionMeta, SingleValueProps } from "react-select";
+import Select, { components, SingleValueProps } from "react-select";
 import style from "./style.css";
 import houseCandidates from "../../data/house-candidates.json";
 
@@ -45,7 +45,7 @@ const groupedOptions = () => {
   return groupedOptions;
 };
 
-const onChange = (option: Option | null, actionMeta: ActionMeta<Option>) => {
+const onChange = (option: Option | null) => {
   if (option !== null) {
     route(`/electorate/${option.value}`);
   } else {

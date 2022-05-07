@@ -38,9 +38,8 @@ export class Ranking {
       }
 
       return RankingState.Complete;
-    } else {
-      return RankingState.Incomplete;
     }
+    return RankingState.Incomplete;
   }
 
   cleared(): Ranking {
