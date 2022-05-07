@@ -1,4 +1,4 @@
-# australian-election-ballot
+# AusBallot
 
 *** Disclaimer *** 
 
