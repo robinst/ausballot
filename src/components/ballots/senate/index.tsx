@@ -50,9 +50,9 @@ const renderHelp = (ranking: Ranking, groups: SenateGroup[]) => {
       const rankAndColumn = ranking.ranking
         .map(
           (rank, index) =>
-            [rank, groups[index].column] as [number | undefined, string]
+            [rank, groups[index].column] as [number | null, string]
         )
-        .filter(([rank]) => rank !== undefined);
+        .filter(([rank]) => rank !== null);
       rankAndColumn.sort(([a], [b]) => (a || 0) - (b || 0));
       const summaryItems = rankAndColumn.map(
         ([rank, column]) => `${rank}✎${column}`
