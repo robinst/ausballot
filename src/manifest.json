@@ -1,11 +1,11 @@
 {
-  "name": "australian-election-ballot",
-  "short_name": "australian-election-ballot",
+  "name": "AusBallot",
+  "short_name": "AusBallot",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
-  "theme_color": "#466c23",
+  "theme_color": "#005426",
   "icons": [
     {
       "src": "/assets/icons/android-chrome-192x192.png",
