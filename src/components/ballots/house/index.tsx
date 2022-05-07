@@ -2,7 +2,7 @@ import { FunctionalComponent, h } from "preact";
 import style from "./style.css";
 import commonStyle from "../style.css";
 import houseCandidates from "../../../data/house-candidates.json";
-import { StateUpdater, useState } from "preact/hooks";
+import { StateUpdater, useEffect, useState } from "preact/hooks";
 import { Ranking, RankingState } from "../ranking";
 
 interface Props {
@@ -21,6 +21,9 @@ type HouseCandidate = {
   ballotGivenName: string;
   partyBallotName: string;
 };
+
+const getLocalStorageKey = (state: string, division: string) =>
+  `ranking.house.2022.${state}.${division}`;
 
 const renderHelp = (ranking: Ranking) => {
   const rankingState = ranking.check();
@@ -79,8 +82,15 @@ const HouseBallot: FunctionalComponent<Props> = (props: Props) => {
   const { state, division } = props;
 
   const candidates = (houseCandidates as HouseCandidates)[state][division];
+  const localStorageKey = getLocalStorageKey(state, division);
 
-  const [ranking, setRanking] = useState(Ranking.empty(candidates.length));
+  const [ranking, setRanking] = useState(() =>
+    Ranking.load(candidates.length, localStorageKey)
+  );
+
+  useEffect(() => {
+    ranking.store(localStorageKey);
+  }, [ranking, localStorageKey]);
 
   return (
     <div>

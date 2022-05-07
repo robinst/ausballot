@@ -19,7 +19,7 @@ describe("Ranking class", () => {
     ranking = ranking.toggleRanking(0);
     expect(ranking.check()).toBe(RankingState.Incomplete);
 
-    expect(ranking.ranking).toStrictEqual([undefined, 1, 3]);
+    expect(ranking.ranking).toStrictEqual([null, 1, 3]);
   });
 
   test("works for ranking that has a minimum number", () => {
@@ -37,23 +37,17 @@ describe("Ranking class", () => {
     ranking = ranking.toggleRanking(2);
     expect(ranking.check(3)).toBe(RankingState.Complete);
 
-    expect(ranking.ranking).toStrictEqual([2, 1, 3, undefined, undefined]);
+    expect(ranking.ranking).toStrictEqual([2, 1, 3, null, null]);
 
     ranking = ranking.toggleRanking(0);
     expect(ranking.check(3)).toBe(RankingState.Incomplete);
 
-    expect(ranking.ranking).toStrictEqual([
-      undefined,
-      1,
-      3,
-      undefined,
-      undefined,
-    ]);
+    expect(ranking.ranking).toStrictEqual([null, 1, 3, null, null]);
 
     ranking = ranking.toggleRanking(0);
     expect(ranking.check(3)).toBe(RankingState.Complete);
 
-    expect(ranking.ranking).toStrictEqual([2, 1, 3, undefined, undefined]);
+    expect(ranking.ranking).toStrictEqual([2, 1, 3, null, null]);
   });
 
   test("works for a large number", () => {

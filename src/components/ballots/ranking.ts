@@ -5,18 +5,34 @@ export enum RankingState {
 }
 
 export class Ranking {
-  ranking: Array<number | undefined>;
+  ranking: Array<number | null>;
 
-  constructor(ranking: Array<number | undefined>) {
+  constructor(ranking: Array<number | null>) {
     this.ranking = ranking;
   }
 
   static empty(length: number): Ranking {
-    return new Ranking(Array(length).fill(undefined));
+    return new Ranking(Array(length).fill(null));
+  }
+
+  static load(length: number, key: string): Ranking {
+    const json = window.localStorage.getItem(key);
+    if (json !== null) {
+      const ranking = JSON.parse(json);
+      if (Array.isArray(ranking) && ranking.length === length) {
+        return new Ranking(ranking);
+      }
+    }
+    return Ranking.empty(length);
+  }
+
+  store(key: string) {
+    const json = JSON.stringify(this.ranking);
+    window.localStorage.setItem(key, json);
   }
 
   hasStarted(): boolean {
-    const filled = this.ranking.filter((r) => r !== undefined);
+    const filled = this.ranking.filter((r) => r !== null);
     return filled.length > 0;
   }
 
@@ -24,7 +40,7 @@ export class Ranking {
     const requiredNumber =
       required !== undefined ? required : this.ranking.length;
 
-    const filled = this.ranking.filter((r) => r !== undefined);
+    const filled = this.ranking.filter((r) => r !== null);
     if (filled.length === 0) {
       return RankingState.NotStarted;
     } else if (filled.length >= requiredNumber) {
@@ -47,26 +63,26 @@ export class Ranking {
   }
 
   toggleRanking(index: number): Ranking {
-    if (this.ranking[index] !== undefined) {
-      return this.updatedRanking(index, undefined);
+    if (this.ranking[index] !== null) {
+      return this.updatedRanking(index, null);
     }
     const availableNumbers = Array.from(
       { length: this.ranking.length },
       (x, i) => i + 1
     );
     for (const rank of this.ranking) {
-      if (rank !== undefined) {
+      if (rank !== null) {
         delete availableNumbers[rank - 1];
       }
     }
-    const rank = availableNumbers.find((n) => n);
-    if (rank !== undefined) {
+    const rank = availableNumbers.find((n) => n) || null;
+    if (rank !== null) {
       return this.updatedRanking(index, rank);
     }
     return this;
   }
 
-  updatedRanking(index: number, number: number | undefined): Ranking {
+  updatedRanking(index: number, number: number | null): Ranking {
     const newRanking = new Ranking([...this.ranking]);
     newRanking.ranking[index] = number;
     return newRanking;

@@ -21,11 +21,15 @@ const Electorate: FunctionalComponent<Props> = (props: Props) => {
 
       <h2 class={style.header}>House ballot</h2>
 
-      <HouseBallot state={state} division={division} />
+      <HouseBallot
+        key={`${state}/${division}`}
+        state={state}
+        division={division}
+      />
 
       <h2 class={style.header}>Senate ballot</h2>
 
-      <SenateBallot state={state} />
+      <SenateBallot key={state} state={state} />
 
       <div class={style.stretcher} />
     </div>

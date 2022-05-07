@@ -3,7 +3,7 @@ import style from "./style.css";
 import commonStyle from "../style.css";
 import senateCandidates from "../../../data/senate-candidates.json";
 import { stateNames } from "../constants";
-import { StateUpdater, useState } from "preact/hooks";
+import { StateUpdater, useEffect, useState } from "preact/hooks";
 import { Ranking, RankingState } from "../ranking";
 
 interface Props {
@@ -25,6 +25,8 @@ type SenateCandidate = {
   ballotGivenName: string;
   partyBallotName: string;
 };
+
+const getLocalStorageKey = (state: string) => `ranking.senate.2022.${state}`;
 
 const renderHelp = (ranking: Ranking, groups: SenateGroup[]) => {
   const rankingState = ranking.check(6);
@@ -105,8 +107,15 @@ const SenateBallot: FunctionalComponent<Props> = (props: Props) => {
   const { state } = props;
 
   const groups = (senateCandidates as SenateCandidates)[state];
+  const localStorageKey = getLocalStorageKey(state);
 
-  const [ranking, setRanking] = useState(Ranking.empty(groups.length));
+  const [ranking, setRanking] = useState(() =>
+    Ranking.load(groups.length, localStorageKey)
+  );
+
+  useEffect(() => {
+    ranking.store(localStorageKey);
+  }, [ranking, localStorageKey]);
 
   const stateName = stateNames[state] || state;
 
