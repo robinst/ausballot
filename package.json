@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "australian-election-ballot",
+  "name": "ausballot",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
