@@ -15,8 +15,14 @@ export class Ranking {
     return new Ranking(Array(length).fill(undefined));
   }
 
+  hasStarted(): boolean {
+    const filled = this.ranking.filter((r) => r !== undefined);
+    return filled.length > 0;
+  }
+
   check(required?: number): RankingState {
-    const requiredNumber = required ? required : this.ranking.length;
+    const requiredNumber =
+      required !== undefined ? required : this.ranking.length;
 
     const filled = this.ranking.filter((r) => r !== undefined);
     if (filled.length === 0) {
@@ -35,6 +41,10 @@ export class Ranking {
     } else {
       return RankingState.Incomplete;
     }
+  }
+
+  cleared(): Ranking {
+    return Ranking.empty(this.ranking.length);
   }
 
   toggleRanking(index: number): Ranking {

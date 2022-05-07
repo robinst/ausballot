@@ -28,13 +28,24 @@
   box-shadow: 2px 2px 1px #dddddd;
 }
 
-.division {
-  font-size: 1.4em;
-  font-weight: bold;
+.heading {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
   border-bottom: 4px solid black;
+}
+
+.division {
+  flex-grow: 1;
   margin-top: 10px;
   margin-bottom: 5px;
   padding-bottom: 4px;
+  font-size: 1.4em;
+  font-weight: bold;
+}
+
+.clearButton {
+  flex-shrink: 1;
 }
 
 .how {
