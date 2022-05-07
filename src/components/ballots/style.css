@@ -1,3 +1,26 @@
+.help {
+  height: 60px;
+  padding: 10px 16px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.helpNotStarted {
+  background-color: #e7f1ff;
+  border-left: 4px solid #0065ff;
+}
+
+.helpIncomplete {
+  background-color: #fff7e0;
+  border-left: 4px solid #ffc400;
+}
+
+.helpComplete {
+  background-color: #e5fdf2;
+  border-left: 4px solid #00875a;
+}
+
 .rankingBox {
   height: 50px;
   min-width: 50px;

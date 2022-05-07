@@ -5,9 +5,21 @@
   box-shadow: 2px 2px 1px #dddddd;
 }
 
+.heading {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  border-bottom: 4px solid black;
+}
+
 .state {
-  font-weight: bold;
+  flex-grow: 1;
   margin-top: 0;
+  font-weight: bold;
+}
+
+.clearButton {
+  flex-shrink: 1;
 }
 
 .aboveTheLine {
