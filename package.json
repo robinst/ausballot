@@ -7,7 +7,7 @@
     "build": "preact build --no-prerender",
     "serve": "sirv build --port 8080 --cors --single",
     "dev": "preact watch",
-    "lint": "eslint 'src/**/*.{js,jsx,ts,tsx}'",
+    "lint": "eslint 'src/**/*.{js,jsx,ts,tsx}' --max-warnings 0",
     "test": "jest ./tests",
     "csv-to-json": "npx ts-node scripts/csv-to-json.ts"
   },
