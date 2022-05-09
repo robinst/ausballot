@@ -39,15 +39,14 @@ const renderHelp = (ranking: Ranking) => {
     case RankingState.Incomplete:
       return (
         <div class={`${commonStyle.help} ${commonStyle.helpIncomplete}`}>
-          ⚠️ Ballot not valid yet, keep numbering all the boxes to make your
-          vote count!
+          ⚠️ Ballot not complete yet, keep numbering all the boxes!
         </div>
       );
     case RankingState.Complete:
       return (
         <div class={`${commonStyle.help} ${commonStyle.helpComplete}`}>
-          🥳 Ballot valid! Why don't you take a screenshot now (zoom out to see
-          all boxes if necessary).
+          🥳 Done! Why don't you take a screenshot now as a reminder (zoom out
+          to see all boxes if necessary).
         </div>
       );
   }

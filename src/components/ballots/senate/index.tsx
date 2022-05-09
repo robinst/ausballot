@@ -42,8 +42,7 @@ const renderHelp = (ranking: Ranking, groups: SenateGroup[]) => {
     case RankingState.Incomplete:
       return (
         <div class={`${commonStyle.help} ${commonStyle.helpIncomplete}`}>
-          ⚠️ Ballot not valid yet, keep numbering boxes with at least 1 to 6 to
-          make your vote count!
+          ⚠️ Ballot not complete yet, keep numbering boxes with at least 1 to 6!
         </div>
       );
     case RankingState.Complete: {
@@ -61,8 +60,8 @@ const renderHelp = (ranking: Ranking, groups: SenateGroup[]) => {
       return (
         <div class={`${commonStyle.help} ${commonStyle.helpComplete}`}>
           <p>
-            🥳 Ballot valid! Why don't you take a screenshot now (zoom out to
-            see all boxes if necessary). Summary of your vote:
+            🥳 Done! Why don't you take a screenshot now as a reminder (zoom out
+            to see all boxes if necessary). Summary of your choices:
           </p>
           <p>
             {summaryItems.map((item, index) => (
