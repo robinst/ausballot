@@ -1,20 +1,6 @@
 # AusBallot
 
-*** Disclaimer *** 
-
-This is not an official Government Website about the Australian election ballot. 
-
-There are about 5% of the total votes classified as Invalid votes because of a number of reasons. 
-
-This website contains actual candidate information retreived from the official government website.
-
-This website is designed to help voters see who are in their actual ballot paper and what it will look like on the day.
-
-This website also help voters practice voting and prepare for the actual electrion.
-
-Voters can practice filling out their ballot papers, or even take a screenshot of the practice vote and copy what they have decided/prepared to the actual ballots on the day.
-
-*** Disclaimer *** 
+Code for <https://ausballot.netlify.app/>
 
 The AEC (Australian Electoral Commission) has this page to view all the candidates for an upcoming election:
 https://www.aec.gov.au/election/candidates.htm
@@ -25,6 +11,20 @@ Wouldn't it be good if you could see a preview of what the actual ballot paper l
 so that you can look at it and calmly decide where to put your vote before the polling booth?
 
 That's what this tiny website does.
+
+## Disclaimer
+
+This is not an official government website about the Australian election ballot.
+
+There are about 5% of the total votes classified as informal (invalid) because of a number of reasons.
+
+This website contains actual candidate information retrieved from the official government website.
+
+This website is designed to help voters see who the candidates in their actual ballot papers are and what it will look like on the day.
+
+This website also helps voters practice voting and prepare for polling day.
+
+Voters can practice filling out their ballot papers, or even take a screenshot of the practice vote and copy what they have decided/prepared to the actual ballots on the day.
 
 ## References
 
