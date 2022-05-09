@@ -42,7 +42,7 @@
 .groupDiv {
   display: flex;
   flex-direction: column;
-  width: 100px;
+  width: min(100px, 25vw);
   padding-left: 10px;
   border-left: 1px solid #aaaaaa;
 }
