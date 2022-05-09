@@ -52,6 +52,8 @@ const Electorate: FunctionalComponent<Props> = (props: Props) => {
         </ul>
       </div>
 
+      <div class={style.authorisedBy}>Authorised by Robin Stocker, Sydney</div>
+
       <div class={style.stretcher} />
     </div>
   );
