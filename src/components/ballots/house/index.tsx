@@ -46,7 +46,7 @@ const renderHelp = (ranking: Ranking) => {
       return (
         <div class={`${commonStyle.help} ${commonStyle.helpComplete}`}>
           🥳 Done! Why don't you take a screenshot now as a reminder (zoom out
-          to see all boxes if necessary).
+          to see all boxes if needed).
         </div>
       );
   }

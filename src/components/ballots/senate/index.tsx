@@ -60,8 +60,8 @@ const renderHelp = (ranking: Ranking, groups: SenateGroup[]) => {
       return (
         <div class={`${commonStyle.help} ${commonStyle.helpComplete}`}>
           <p>
-            🥳 Done! Why don't you take a screenshot now as a reminder (zoom out
-            to see all boxes if necessary). Summary of your choices:
+            🥳 Done! Now take a screenshot as a reminder (zoom out if needed).
+            Your choices:
           </p>
           <p>
             {summaryItems.map((item, index) => (

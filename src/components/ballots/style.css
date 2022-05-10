@@ -1,6 +1,6 @@
 .help {
   min-height: 62px;
-  padding: 10px 16px;
+  padding: 10px 10px 10px 15px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -28,6 +28,8 @@
 }
 
 .helpComplete {
+  position: sticky;
+  top: 56px;
   background-color: #e5fdf2;
   border-left: 4px solid #00875a;
 }
