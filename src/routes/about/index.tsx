@@ -11,23 +11,27 @@ const About: FunctionalComponent = () => {
       </p>
       <h4>Why did you build this?</h4>
       <p>
-        I was researching who to vote for and all I could find on the AEC
-        website was a very long and hard to read page with all the candidates.
+        Last time I went to the polling place, I remember being overwhelmed by
+        the ballot papers (especially the senate) and not feeling prepared
+        enough.
       </p>
       <p>
-        It didn't make me feel prepared enough to go to a polling place and to
-        be able to number the boxes without knowing more about the parties,
-        especially for the senate ballot.
+        I wanted a way to see what my ballot papers are going to look like and
+        decide how to vote beforehand. The AEC website has a list of all the
+        candidates, but it's very long and hard to read.
       </p>
       <p>
-        I saw that the AEC provided a data download and then after a bit of
-        coding ended up with this :).
+        I saw that the AEC provides CSV files with the candidate data, so I
+        downloaded it and after a bit of coding ended up with this :).
+      </p>
+      <p>
+        Hopefully by sharing this it can help others prepare for their vote as
+        well!
       </p>
       <h4>Is this official?</h4>
       <p>
-        In case it wasn't clear yet, it's in no way official, I just built this
-        for fun and thought it might be helpful for people. Use at your own
-        risk, etc.
+        No, it's not an official website, I just built this for fun and thought
+        it might be helpful for people. Use at your own discretion.
       </p>
       <h4>How did you build it?</h4>
       <ul>
@@ -43,21 +47,25 @@ const About: FunctionalComponent = () => {
           in TypeScript & Preact)
         </li>
       </ul>
-      <h4>Is the vote data sent/stored somewhere?</h4>
+      <h4>Is the vote data saved/sent anywhere?</h4>
       <p>
-        Your vote data is not sent anywhere, it is only stored on your device
-        within your browser using{" "}
+        No, your vote data is only stored in your browser on your device using{" "}
         <a
           href="https://en.wikipedia.org/wiki/Web_storage"
           target="_blank"
           rel="noreferrer"
         >
           local storage
-        </a>
-        .
+        </a>{" "}
+        for the purpose of not losing your selection if you accidentally
+        navigate away or switch electorate. You can delete the data by clearing
+        website data in your browser.
       </p>
       <h4>Anything else?</h4>
-      <p>Like this site? Feel free to buy me a coffee here:</p>
+      <p>
+        If you like this site and would like to show your support, buy me a
+        coffee here 😄:
+      </p>
       <a href="https://www.buymeacoffee.com/robinst">
         <img width="200" height="56" src="/assets/bmc-button.png" />
       </a>
