@@ -62,6 +62,10 @@ We can run some analysis on the data using [jq](https://stedolan.github.io/jq/):
 $ jq '[.[] | .[] | length] | max' src/data/house-candidates.json
 12
 
+# All electorates with how many candidates they have:
+$ jq -r '.[] | to_entries[] | .key + "," + (.value | length | tostring)' src/data/house-candidates.json | sort -t, -k2 -n
+...
+
 # How many columns each state senate ballot has:
 $ jq -r 'to_entries[] | .key + ": " + (.value | length | tostring)' src/data/senate-candidates.json
 ACT: 12
