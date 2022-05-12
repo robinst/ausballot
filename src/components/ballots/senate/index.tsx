@@ -105,7 +105,9 @@ const renderGroup = (
 const SenateBallot: FunctionalComponent<Props> = (props: Props) => {
   const { state } = props;
 
-  const groups = (senateCandidates as SenateCandidates)[state];
+  const groups = (senateCandidates as SenateCandidates)[state].filter(
+    (g) => g.column !== "UG"
+  );
   const localStorageKey = getLocalStorageKey(state);
 
   const [ranking, setRanking] = useState(() =>
