@@ -31,20 +31,20 @@ const renderHelp = (ranking: Ranking) => {
   switch (rankingState) {
     case RankingState.NotStarted:
       return (
-        <div class={`${commonStyle.help} ${commonStyle.helpNotStarted}`}>
+        <div class={`help ${commonStyle.help} ${commonStyle.helpNotStarted}`}>
           🌭 Click on a box to select your number 1 and start filling out the
           ballot.
         </div>
       );
     case RankingState.Incomplete:
       return (
-        <div class={`${commonStyle.help} ${commonStyle.helpIncomplete}`}>
+        <div class={`help ${commonStyle.help} ${commonStyle.helpIncomplete}`}>
           ⚠️ Ballot not complete yet, keep numbering all the boxes!
         </div>
       );
     case RankingState.Complete:
       return (
-        <div class={`${commonStyle.help} ${commonStyle.helpComplete}`}>
+        <div class={`help ${commonStyle.help} ${commonStyle.helpComplete}`}>
           🥳 Done! Why don't you take a screenshot now as a reminder (zoom out
           to see all boxes if needed).
         </div>
@@ -105,7 +105,7 @@ const HouseBallot: FunctionalComponent<Props> = (props: Props) => {
 
         {ranking.hasStarted() && (
           <button
-            class={style.clearButton}
+            class={`clearButton ${style.clearButton}`}
             onClick={() =>
               confirm("Clear your vote?") && setRanking(ranking.cleared())
             }

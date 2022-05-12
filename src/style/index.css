@@ -22,3 +22,26 @@ body {
   flex-direction: column;
   align-items: center;
 }
+
+@media print {
+  .clearButton,
+  .electorateSelector,
+  .header,
+  .help,
+  .references,
+  .stretcher {
+    display: none !important;
+  }
+
+  .electorate {
+    padding: 0 !important;
+  }
+
+  .electorate h2 {
+    margin: 10px 0px !important;
+  }
+
+  .senateBallot {
+    break-before: page;
+  }
+}

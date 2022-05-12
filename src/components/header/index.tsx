@@ -4,7 +4,7 @@ import style from "./style.css";
 
 const Header: FunctionalComponent = () => {
   return (
-    <header class={style.header}>
+    <header class={`header ${style.header}`}>
       <h1>AusBallot</h1>
       <nav>
         <Link activeClassName={style.active} href="/">

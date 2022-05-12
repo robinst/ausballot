@@ -34,14 +34,14 @@ const renderHelp = (ranking: Ranking, groups: SenateGroup[]) => {
   switch (rankingState) {
     case RankingState.NotStarted:
       return (
-        <div class={`${commonStyle.help} ${commonStyle.helpNotStarted}`}>
+        <div class={`help ${commonStyle.help} ${commonStyle.helpNotStarted}`}>
           🌭 Click on a box to select your number 1 and start filling out the
           ballot.
         </div>
       );
     case RankingState.Incomplete:
       return (
-        <div class={`${commonStyle.help} ${commonStyle.helpIncomplete}`}>
+        <div class={`help ${commonStyle.help} ${commonStyle.helpIncomplete}`}>
           ⚠️ Ballot not complete yet, keep numbering boxes with at least 1 to 6!
         </div>
       );
@@ -58,7 +58,7 @@ const renderHelp = (ranking: Ranking, groups: SenateGroup[]) => {
       );
 
       return (
-        <div class={`${commonStyle.help} ${commonStyle.helpComplete}`}>
+        <div class={`help ${commonStyle.help} ${commonStyle.helpComplete}`}>
           <p>
             🥳 Done! Now take a screenshot as a reminder (zoom out if needed).
             Your choices:
@@ -137,7 +137,7 @@ const SenateBallot: FunctionalComponent<Props> = (props: Props) => {
 
         {ranking.hasStarted() && (
           <button
-            class={style.clearButton}
+            class={`clearButton ${style.clearButton}`}
             onClick={() =>
               confirm("Clear your vote?") && setRanking(ranking.cleared())
             }

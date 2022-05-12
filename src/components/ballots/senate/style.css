@@ -40,8 +40,6 @@
 }
 
 .groupDiv {
-  display: flex;
-  flex-direction: column;
   width: min(100px, 25vw);
   padding-left: 10px;
   border-left: 1px solid #aaaaaa;
@@ -52,8 +50,6 @@
 }
 
 .groupName {
-  flex-shrink: 1;
-  flex-wrap: wrap;
   word-break: break-word;
   font-weight: 600;
   font-size: 0.7em;

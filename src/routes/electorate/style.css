@@ -2,8 +2,6 @@
   padding: 56px 20px;
   width: min(100vw, 620px);
   min-height: 100%;
-  display: flex;
-  flex-direction: column;
 }
 
 .electorateLabel {
