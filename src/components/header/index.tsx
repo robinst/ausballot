@@ -7,7 +7,7 @@ const Header: FunctionalComponent = () => {
     <header class={`header ${style.header}`}>
       <h1>AusBallot</h1>
       <nav>
-        <Link activeClassName={style.active} href="/">
+        <Link activeClassName={style.active} href="/" onClick={() => { localStorage.removeItem('electorate'); }}>
           Home
         </Link>
         <Link activeClassName={style.active} href="/about">

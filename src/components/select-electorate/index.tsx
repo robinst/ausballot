@@ -48,6 +48,7 @@ const groupedOptions = () => {
 const onChange = (option: Option | null) => {
   if (option !== null) {
     route(`/electorate/${option.value}`);
+    localStorage.setItem('electorate', option.value);
   } else {
     route("/");
   }
