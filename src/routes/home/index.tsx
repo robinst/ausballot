@@ -6,7 +6,7 @@ import { route } from "preact-router";
 
 const Home: FunctionalComponent = () => {
   useEffect(() => {
-    let selectedElectorate = localStorage.getItem("electorate");
+    const selectedElectorate = localStorage.getItem("electorate");
     if (selectedElectorate) {
       route(`/electorate/${selectedElectorate}`);
     }
