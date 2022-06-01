@@ -47,8 +47,10 @@ const groupedOptions = () => {
 
 const onChange = (option: Option | null) => {
   if (option !== null) {
+    localStorage.setItem("electorate", option.value);
     route(`/electorate/${option.value}`);
   } else {
+    localStorage.removeItem("electorate");
     route("/");
   }
 };

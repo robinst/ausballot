@@ -1,8 +1,17 @@
 import { FunctionalComponent, h } from "preact";
 import style from "./style.css";
 import SelectElectorate from "../../components/select-electorate";
+import { useEffect } from "preact/hooks";
+import { route } from "preact-router";
 
 const Home: FunctionalComponent = () => {
+  useEffect(() => {
+    let selectedElectorate = localStorage.getItem("electorate");
+    if (selectedElectorate) {
+      route(`/electorate/${selectedElectorate}`);
+    }
+  }, []);
+
   return (
     <div class={style.home}>
       <section class={style.main}>
